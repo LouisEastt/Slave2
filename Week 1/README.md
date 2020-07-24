@@ -1,2 +1,2 @@
-# Week 1: Introduction To Slave to the Algorithm
+# Week 1: Introduction to course
 ## Critial thinkers & a generative task
