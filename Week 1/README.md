@@ -22,7 +22,7 @@ Jonathon Moore  <br />
 Images:  <br />
 Generative Design system  
 
-![Generative Examples_Small](https://user-images.githubusercontent.com/68723193/88772987-de348300-d1c4-11ea-9762-695616a72c1b.jpg)
+![Generative Workshop 1](https://user-images.githubusercontent.com/68723193/88773087-091ed700-d1c5-11ea-90a3-bbceeb05a27e.jpg)
 
 w/ generated examples.
 
