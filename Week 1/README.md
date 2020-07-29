@@ -7,8 +7,8 @@ All great things.. start with an introduction. What the F’ are we going to be 
 Notable Works:
 Now.. I’d like to keep note of the works that I connect with. Either for aesthetic reasons, conceptual or for the themes explored. The “Workout Computer” by Bless is a work that was particularly striking to me. The perfect amount of quirk for my liking. Looking at works from Bless, they describe themselves as that they ‘offer inventive connections between art and design, fashion and architecture, new definitions for objects and products and creative solutions in business and social practices.’ (http://freedmanfitzpatrick.com/exhibitions/bless-n65/). A merging of all things that I find myself interested in. Their work seems speculative and difficult to reference.. which could potentially speak to their originality. This may also be due to the fact their work is a merging of different design languages. Links to exhibitions where Bless are involved here (https://www.gta.arch.ethz.ch/exhibitions/retail-apocalypse) (http://freedmanfitzpatrick.com/exhibitions/bless-n65/) & (http://freedmanfitzpatrick.com/exhibitions/stefan-tcherepnin/). I wonder what generative furniture could look like? It could be interesting creating systems that do NOT consider functionality. Potentially this could look to re-design or re-think ways of using architecture? Ways that us silly humans may have not yet realised. I wonder if this is a dangerous rabbit hole.. construction during a pandemic? 
 
-What could my project look like?
-A REAL artefact (if possible)
+What could my project look like? <d>
+A REAL artefact (if possible) <d>
 Reactive (Experience based?)
 Playful/ Quirky/ Stupid
 Involved with Surfing 
