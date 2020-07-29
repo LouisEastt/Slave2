@@ -20,7 +20,11 @@ Ryoji Ikeda  <br />
 Jonathon Moore  <br />
 
 Images:  <br />
-Generative Design system w/ generated examples. 
+Generative Design system  
+
+![Generative Examples_Small](https://user-images.githubusercontent.com/68723193/88772987-de348300-d1c4-11ea-9762-695616a72c1b.jpg)
+
+w/ generated examples.
 
 ![Generative Examples_Small](https://user-images.githubusercontent.com/68723193/88772895-c2c97800-d1c4-11ea-9b4c-4050d2fb1322.jpg)
 
