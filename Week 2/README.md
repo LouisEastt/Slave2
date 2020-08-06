@@ -13,7 +13,7 @@ After the first week workshop.. I decided to make another generative system. Iâ€
 
 
 Notable Practioners:  <br />
-* = Personal Interest
+*  Personal Interest
  
 Dave Whyte  <br />
 Denial of Service  <br />
