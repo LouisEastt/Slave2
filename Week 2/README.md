@@ -38,7 +38,7 @@ Week 2 (12 hr Challenge) <br />
 “You Wake up..” <br />
 Trying to contort ones early movements of the day.. What if your first movements were to the inside of a cupboard? Maybe while you’re in there you need to stretch.. or perform a cartwheel? The next part is breakfast.. which has been designed specifically to create strange combinations. 
 
-![Week 2 (12 hr Challenge)](https://user-images.githubusercontent.com/68723193/89479493-51965000-d7d6-11ea-862b-376ff45410be.jpeg)
+![Week 2 (12 hr Challenge)](https://user-images.githubusercontent.com/68723193/89479554-7b4f7700-d7d6-11ea-97ae-53915878e73c.jpeg)
 
 Surfboard Generator  <br />
 Generative surfboard creator and generated designs
