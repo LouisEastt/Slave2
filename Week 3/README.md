@@ -61,9 +61,6 @@ Margie Livingston
 *Bike Draw (3)* <br />
 ![BIKE DRAWING 3](https://user-images.githubusercontent.com/68723193/89702464-db841b80-d984-11ea-9861-42c72d35f070.jpg)
 
-![BIKE DRAWING 2](https://user-images.githubusercontent.com/68723193/89702463-d7f09480-d984-11ea-9423-24b61571da92.jpg)
-
 *Vinyl Drawing* <br />
-
 ![VINYL DRAWING ](https://user-images.githubusercontent.com/68723193/89702445-b2fc2180-d984-11ea-852e-105e1b049b80.jpeg)
 
