@@ -1,4 +1,4 @@
-#Week 3: Rules based Design, Drawing Machine Workshop & Pitch Introduction
+# Week 3: Rules based Design, Drawing Machine Workshop & Pitch Introduction
 
 ## Summary <br />
 This week Karen gave us the opportunity to avoid out flat screens and indulge into the real world. We examined a range of generative works that don’t use code.. employing a rules-based design system. Looking to defer agency. <br />
@@ -38,10 +38,13 @@ Margie Livingston
 
 ## Images <br />
 (Included sketch for remix of Vinny Bartels portrait)
+<img width="612" alt="Screen Shot 2020-08-08 at 2 14 14 pm" src="https://user-images.githubusercontent.com/68723193/89702483-0e2e1400-d985-11ea-8961-c943c728a67d.png">
 
 Workshop concepts (Drawing Machine ideas)
+![DRAWING MACHINE IDEAS](https://user-images.githubusercontent.com/68723193/89702439-aa0b5000-d984-11ea-89b7-65a0fb54d3f9.jpeg)
 
 Drawing Machine “Bike draw” 
+![IMG_8730](https://user-images.githubusercontent.com/68723193/89702433-9eb82480-d984-11ea-8bfd-81cb1ae7c32d.PNG)
 
 Drawing Machine Outcomes
 
