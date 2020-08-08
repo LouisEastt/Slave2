@@ -37,7 +37,7 @@ Margie Livingston <br />
 Manola Gamboa Naon http://manoloide.com/ <br />
 Joanie Lemercier https://joanielemercier.com/ <br />
 ** Edouard Cabay <br />
-Vera Monlar <br />
+Vera Monlar http://www.veramolnar.com/ <br />
 
 
 ## Images <br />
