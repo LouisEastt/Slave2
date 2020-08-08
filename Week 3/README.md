@@ -38,6 +38,7 @@ Manola Gamboa Naon http://manoloide.com/ <br />
 Joanie Lemercier https://joanielemercier.com/ <br />
 ** Edouard Cabay <br />
 Vera Monlar http://www.veramolnar.com/ <br />
+Matt DesLauriers https://www.mattdesl.com/ <br />
 
 
 ## Images <br />
