@@ -36,7 +36,8 @@ Tim Knowles <br />
 Margie Livingston <br />
 Manola Gamboa Naon http://manoloide.com/ <br />
 Joanie Lemercier https://joanielemercier.com/ <br />
-**Edouard Cabay <br />
+** Edouard Cabay <br />
+Vera Monlar <br />
 
 
 ## Images <br />
