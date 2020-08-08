@@ -38,13 +38,32 @@ Margie Livingston
 
 ## Images <br />
 **(Included sketch for remix of Vinny Bartels portrait)** <br />
+
 <img width="612" alt="Screen Shot 2020-08-08 at 2 14 14 pm" src="https://user-images.githubusercontent.com/68723193/89702483-0e2e1400-d985-11ea-8961-c943c728a67d.png">
 
 **Workshop concepts (Drawing Machine ideas)** <br />
+
 ![DRAWING MACHINE IDEAS](https://user-images.githubusercontent.com/68723193/89702439-aa0b5000-d984-11ea-89b7-65a0fb54d3f9.jpeg)
 
 **Drawing Machine “Bike draw”**  <br />
+
 ![IMG_8730](https://user-images.githubusercontent.com/68723193/89702433-9eb82480-d984-11ea-8bfd-81cb1ae7c32d.PNG)
 
 **Drawing Machine Outcomes** <br />
+*Trampoline Drawing*  <br />
+![TRAMP DRAWING 2](https://user-images.githubusercontent.com/68723193/89702497-3453b400-d985-11ea-8702-9b2d3170304e.jpeg)
+
+
+*Bike Draw (1)*  <br />
+![BIKE DRAWING 2](https://user-images.githubusercontent.com/68723193/89702458-d0c98680-d984-11ea-830b-6f33b8b8d445.jpeg)
+*Bike Draw (2)* <br />
+![BIKE DRAWING 2](https://user-images.githubusercontent.com/68723193/89702462-d757fe00-d984-11ea-9524-e972f0bd0e04.jpg)
+*Bike Draw (3)* <br />
+![BIKE DRAWING 3](https://user-images.githubusercontent.com/68723193/89702464-db841b80-d984-11ea-9861-42c72d35f070.jpg)
+
+![BIKE DRAWING 2](https://user-images.githubusercontent.com/68723193/89702463-d7f09480-d984-11ea-9423-24b61571da92.jpg)
+
+*Vinyl Drawing* <br />
+
+![VINYL DRAWING ](https://user-images.githubusercontent.com/68723193/89702445-b2fc2180-d984-11ea-852e-105e1b049b80.jpeg)
 
