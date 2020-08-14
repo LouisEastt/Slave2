@@ -16,9 +16,8 @@ Processing Images from In Class
 <img width="612" alt="Screen Shot 2020-08-14 at 1 45 44 pm" src="https://user-images.githubusercontent.com/68723193/90228618-e1cd3880-de59-11ea-923d-27cc0a4c6cff.png">
  
 <img width="612" alt="Screen Shot 2020-08-14 at 2 23 33 pm" src="https://user-images.githubusercontent.com/68723193/90228624-e4c82900-de59-11ea-9fae-493375b961d8.png">
-<img width="612" alt="Screen Shot 2020-08-14 at 2 07 53 pm" src="https://user-images.githubusercontent.com/68723193/90228626-e5f95600-de59-11ea-9514-891b01be4eaa.png"> 
 <img width="612" alt="Screen Shot 2020-08-14 at 2 23 33 pm" src="https://user-images.githubusercontent.com/68723193/90228632-e8f44680-de59-11ea-989f-32ad4db876a2.png">
-<img width="592" alt="Screen Shot 2020-08-14 at 10 35 18 am" src="https://user-images.githubusercontent.com/68723193/90228649-eeea2780-de59-11ea-8b3e-701122089622.png">
+<img width="612" alt="Screen Shot 2020-08-14 at 2 07 53 pm" src="https://user-images.githubusercontent.com/68723193/90228626-e5f95600-de59-11ea-9514-891b01be4eaa.png"> 
 <img width="592" alt="Screen Shot 2020-08-14 at 10 35 18 am" src="https://user-images.githubusercontent.com/68723193/90228641-eb56a080-de59-11ea-9a6b-d551940513f6.png">
 <img width="564" alt="Screen Shot 2020-08-14 at 11 20 07 am" src="https://user-images.githubusercontent.com/68723193/90228651-f01b5480-de59-11ea-8e6d-099e48dafccc.png">
 <img width="592" alt="Screen Shot 2020-08-14 at 11 06 50 am" src="https://user-images.githubusercontent.com/68723193/90228656-f14c8180-de59-11ea-98d7-50c89e261f85.png">
