@@ -11,9 +11,11 @@ Well… I had some luck there. Part of the discussion I was interested in with t
 
 
 ## Exporting anchor points ..(Trying to understand curves angles and controll points)? <br />
+**Anchor Points in Blue
 <img width="1104" alt="Screen Shot 2020-09-11 at 4 33 46 pm" src="https://user-images.githubusercontent.com/68723193/92875836-c3ecf680-f44c-11ea-9678-86a3f9d464fd.png">
 
 ## Mocking up curves and controll points ..(Making observations that could be used in my code)? <br />
+**Potential controll points in Red
 <img width="1104" alt="Screen Shot 2020-09-11 at 4 33 23 pm" src="https://user-images.githubusercontent.com/68723193/92875845-c5b6ba00-f44c-11ea-80b4-c2da0163b48e.png">
 
 
