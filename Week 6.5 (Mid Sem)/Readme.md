@@ -19,3 +19,9 @@ Well… I had some luck there. Part of the discussion I was interested in with t
 <img width="1104" alt="Screen Shot 2020-09-11 at 4 33 23 pm" src="https://user-images.githubusercontent.com/68723193/92875845-c5b6ba00-f44c-11ea-80b4-c2da0163b48e.png">
 
 
+## From the observations.. Applied learning devellopped in processing
+<img width="712" alt="Screen Shot 2020-09-11 at 4 34 23 pm" src="https://user-images.githubusercontent.com/68723193/92876553-948ab980-f44d-11ea-8f8c-67fedd2a6745.png">
+<img width="712" alt="Screen Shot 2020-09-11 at 4 34 29 pm" src="https://user-images.githubusercontent.com/68723193/92876556-95235000-f44d-11ea-9636-309dafd8ed98.png">
+<img width="712" alt="Screen Shot 2020-09-11 at 4 34 33 pm" src="https://user-images.githubusercontent.com/68723193/92876558-95bbe680-f44d-11ea-842b-7efd485eb3d5.png">
+<img width="712" alt="Screen Shot 2020-09-11 at 4 34 37 pm" src="https://user-images.githubusercontent.com/68723193/92876560-96547d00-f44d-11ea-8f61-76bf11f5ca81.png">
+
