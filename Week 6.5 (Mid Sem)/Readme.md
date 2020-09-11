@@ -25,3 +25,14 @@ Well… I had some luck there. Part of the discussion I was interested in with t
 <img width="712" alt="Screen Shot 2020-09-11 at 4 34 33 pm" src="https://user-images.githubusercontent.com/68723193/92876558-95bbe680-f44d-11ea-842b-7efd485eb3d5.png">
 <img width="712" alt="Screen Shot 2020-09-11 at 4 34 37 pm" src="https://user-images.githubusercontent.com/68723193/92876560-96547d00-f44d-11ea-8f61-76bf11f5ca81.png">
 
+
+## One of the very sad models that I created <br />
+** The others will never see light of day
+![IMG_8830](https://user-images.githubusercontent.com/68723193/92878323-57bfc200-f44f-11ea-82f5-2b42328fb61c.JPG)
+
+
+## Experimenting with carving Polystyrene <br />
+** Looking at for potential for play and curves in 3D form
+![IMG_8831](https://user-images.githubusercontent.com/68723193/92878412-6c9c5580-f44f-11ea-989d-3e31282dbb06.JPG)
+
+
