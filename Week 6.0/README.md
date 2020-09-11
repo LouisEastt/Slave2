@@ -1,5 +1,5 @@
 # Week 6 <br />
-#Physical Data Works & Processing w/ Sound <br />
+# Physical Data Works & Processing w/ Sound <br />
 
 ## Summary: <br />
 This week we were not so blessed by the computer gods.. showing their almighty power with a stretch of technical difficulties. We continued on.. we are not slaves.. we are smart slaves. Karen walked us through a range of physical data driven works. Personally, these are the type of works that I like to engage in. I enjoy seeing the ways that technical tools can be manipulated to speak to design/art. During class.. we broke into groups to exchange feedback.. and tried to congregate ourselves into smaller clusters which were relative to our practice. Trying to find ways that we can share knowledge and expertise and learn collectively. A really smart way of working which encouraged collaboration and creates a shared space that feels less insular. An environment/practice that should be more embraced through RMIT. 
