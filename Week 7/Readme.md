@@ -91,5 +91,13 @@ Both systems running
 Current Updated Models
 
 
+## Class Workshop <br / >
+
+<img width="1792" alt="Screen Shot 2020-09-11 at 5 38 51 pm" src="https://user-images.githubusercontent.com/68723193/93061323-c2266b80-f6b6-11ea-995c-033763b32d23.png">
+<img width="1792" alt="Screen Shot 2020-09-11 at 5 39 18 pm" src="https://user-images.githubusercontent.com/68723193/93061337-c6528900-f6b6-11ea-9dd0-7bda9004f1cb.png">
+<img width="1792" alt="Screen Shot 2020-09-11 at 5 40 28 pm" src="https://user-images.githubusercontent.com/68723193/93061343-c6eb1f80-f6b6-11ea-98ee-248be032bfa2.png">
+
+
+
 
 
