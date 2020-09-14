@@ -1,13 +1,13 @@
 # Week 7
 ## Quick Progress Presentation, Pseudo Code and Processing Workshop
 
-## Summary: <br />
+## Summary <br />
 You know what.. I was about to write a summary of what happened today as I have in the past few weeks.. Will this ever be read.. is this useful..? I don’t know.. I’m likely just rambling. I’ll be quick, maybe it’ll be useful later. 
 
 We gave a quick rundown of each of our projects.. accessing our learning, outcomes and current direction. A lovely way to see where everyone was at with their projects and also to ask some personal questions about my own direction. Re-assessing our paper prototypes.. learning about Pseudo code and finishing off with another fun processing workshop playing with type. I can see how Pseudocode could eliminate some early code issues that could be big time wasters if followed through with.. Even just as a good first stage plan! 
 
 
-(Daily) Pseudo Code<br />
+## (Daily) Pseudo Code <br />
 
 “Showering” <br />
 INT time; <br />
