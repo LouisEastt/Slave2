@@ -12,74 +12,74 @@ We gave a quick rundown of each of our projects.. accessing our learning, outcom
 “Showering” <br />
 INT time; <br />
 INT shower; <br />
-BOOLEAN clean;
+BOOLEAN clean; <br />
 
-IF (clean = FALSE){
-	time since shower = TRUE> 5 hrs
-	shower = TRUE
-}
-ELSE IF (clean = TRUE){
-	Shower = FALSE;
-	}
+IF (clean = FALSE){ <br />
+	time since shower = TRUE> 5 hrs <br />
+	shower = TRUE <br />
+} <br />
+ELSE IF (clean = TRUE){ <br />
+	Shower = FALSE; <br />
+	} <br />
 
-END IF
+END IF <br />
 	
 
-“Breathing”
-INT time;
-INT lastBreathTime;
-BOOLEAN breath;
-BOOLEAN nauseous;
+“Breathing” <br />
+INT time; <br />
+INT lastBreathTime; <br />
+BOOLEAN breath; <br />
+BOOLEAN nauseous; <br />
 
-IF (breath = TRUE){
-	lastBreathTime = time;
-IF (lastBreathTime > 60 seconds){
-Breath = TRUE
+IF (breath = TRUE){ <br />
+	lastBreathTime = time; <br />
+IF (lastBreathTime > 60 seconds){ <br />
+Breath = TRUE <br />
 
-IF (breath = FALSE){
-	Breath = TRUE;
-}
+IF (breath = FALSE){ <br />
+	Breath = TRUE; <br />
+} <br />
 
-END IF 
+END IF  <br />
 
 
 
  
 
 
-Run down of Current Project
+## Run down of Current Project <br />
 
 Thus far I’ve been focussed on trying to create physical models from my generative system. Looking to find opportunities from different materials and how the forms can translate. Looking at different aesthetic features and potential scale translations. I’ve been developing two different systems and there a couple more that I could begin to develop (each working with different amount of anchor points and random anchor scope). My research has gone into testing with the generative systems and trying to find different ways to translate the forms 3 dimensionally. Looking back to the works that influenced this project and trying to re-examine the creators approach… (Truthful to materially and trying not to complicate my outcomes & thinking). My next biggest challenge is trying to find a definitive place with this project where they are developed. Seeing as they are not being created at scale to surf, what other outcomes would be a suitable translation? 
-Finding a way to create them with restrictions? 
-Translating in 3D space? 
-Publication showcasing models and systems?
+Finding a way to create them with restrictions? <br />
+Translating in 3D space? <br />
+Publication showcasing models and systems? <br />
 
-I am trying to understand.. 
-Is this project about
-..sustainability in surfing?
-..creating and evaluating frameworks for non-human & human collaboration?
-
-
-If the project is about their potential in the surf and I am not able to surf them.. what is the most suitable way for them to be translated? 
-
-Should they be constructed as models.. 
-Should I create an archive of these forms? 
-Select and construct the ones that I appear to see potential?
-		(A type of non-human/human collaboration?)
+I am trying to understand..  <br />
+Is this project about <br />
+..sustainability in surfing? <br />
+..creating and evaluating frameworks for non-human & human collaboration? <br />
 
 
+If the project is about their potential in the surf and I am not able to surf them.. what is the most suitable way for them to be translated?  <br />
+
+Should they be constructed as models..  <br />
+Should I create an archive of these forms?  <br />
+Select and construct the ones that I appear to see potential? <br />
+		(A type of non-human/human collaboration?) <br />
 
 
-Notable Practioners:
-Morfed Studio
-Audrey Large (audreylarge.com)
-Chan Chaiao Chun (www.chanchiaochun.com)
-Orta Miklos
 
 
-Images:
+## Notable Practioners: <br />
+Morfed Studio <br />
+Audrey Large (audreylarge.com) <br />
+Chan Chaiao Chun (www.chanchiaochun.com) <br />
+Orta Miklos <br />
 
-Paper Prototyping
+
+## Images: <br />
+
+Paper Prototyping <br /> 
 *Potential systems
 
 Potential Web app
