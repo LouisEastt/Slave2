@@ -82,6 +82,9 @@ Orta Miklos <br />
 Paper Prototyping <br /> 
 *Potential systems
 
+![Potential Systems](https://user-images.githubusercontent.com/68723193/93061729-5395dd80-f6b7-11ea-853b-725f1338d61d.jpeg)
+
+
 Potential Web app
 *Surfboard Generator, able to move through systems
 ![Paper-Prototype-Surfboard-Gen-1](https://user-images.githubusercontent.com/68723193/93061583-1cbfc780-f6b7-11ea-863f-8d007e7aa1f8.gif)
