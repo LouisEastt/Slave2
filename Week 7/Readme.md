@@ -7,11 +7,11 @@ You know what.. I was about to write a summary of what happened today as I have 
 We gave a quick rundown of each of our projects.. accessing our learning, outcomes and current direction. A lovely way to see where everyone was at with their projects and also to ask some personal questions about my own direction. Re-assessing our paper prototypes.. learning about Pseudo code and finishing off with another fun processing workshop playing with type. I can see how Pseudocode could eliminate some early code issues that could be big time wasters if followed through with.. Even just as a good first stage plan! 
 
 
-(Daily) Pseudo Code
+(Daily) Pseudo Code<br />
 
-“Showering”
-INT time;
-INT shower;
+“Showering” <br />
+INT time; <br />
+INT shower; <br />
 BOOLEAN clean;
 
 IF (clean = FALSE){
