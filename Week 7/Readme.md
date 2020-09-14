@@ -92,6 +92,9 @@ Potential Web app
 
 Both systems running 
 
+![Working-Systems-0 35](https://user-images.githubusercontent.com/68723193/93065834-8bebea80-f6bc-11ea-9d5c-c8a90e3d82a7.gif)
+
+
 Current Updated Models
 
 
