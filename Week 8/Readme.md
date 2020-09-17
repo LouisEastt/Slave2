@@ -6,7 +6,7 @@
 ## Current WIP
 * Well... What could a surfboard be? <br />
 
-* Sweet Potatoe Surfboard
+Sweet Potatoe Surfboard
 
 Begun with several new craft forms 
 ![IMG_8866](https://user-images.githubusercontent.com/68723193/93464231-31f15c00-f92c-11ea-8ab0-09a37300053b.JPG)
