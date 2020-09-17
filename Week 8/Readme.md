@@ -13,7 +13,14 @@ Begun with several new craft forms
 ![IMG_8871](https://user-images.githubusercontent.com/68723193/93464241-36b61000-f92c-11ea-8853-9c3563258fa1.jpg)
 ![IMG_8875](https://user-images.githubusercontent.com/68723193/93464244-387fd380-f92c-11ea-9734-bd61c006c625.jpg)
 ![IMG_8886 2](https://user-images.githubusercontent.com/68723193/93464247-39186a00-f92c-11ea-923b-ec84bf3babf3.JPG)
-![IMG_8894](https://user-images.githubusercontent.com/68723193/93464251-3ae22d80-f92c-11ea-824b-6f2ec33ba8bc.JPG)
+![IMG_8890](https://user-images.githubusercontent.com/68723193/93464646-d5db0780-f92c-11ea-8100-e26ec7897cd2.JPG)
 ![IMG_8898](https://user-images.githubusercontent.com/68723193/93464255-3cabf100-f92c-11ea-8eda-b2f254a5735d.JPG)
 
+
+* 3D Testing
+
+<img width="1680" alt="Screen Shot 2020-09-15 at 12 09 45 pm" src="https://user-images.githubusercontent.com/68723193/93464730-f905b700-f92c-11ea-9b9a-fe111af36aaa.png">
+<img width="1680" alt="Screen Shot 2020-09-15 at 12 09 48 pm" src="https://user-images.githubusercontent.com/68723193/93464755-01f68880-f92d-11ea-97a4-1173711cc541.png">
+<img width="1680" alt="Screen Shot 2020-09-15 at 7 05 45 pm" src="https://user-images.githubusercontent.com/68723193/93464761-0622a600-f92d-11ea-9e33-e74814639a03.png">
+<img width="1680" alt="Screen Shot 2020-09-15 at 12 09 53 pm" src="https://user-images.githubusercontent.com/68723193/93464762-0622a600-f92d-11ea-8a60-805ef4caacc1.png">
 
