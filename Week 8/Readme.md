@@ -11,31 +11,22 @@ We began with a quick rapid-fire outline of our current projects, each showcasin
 
 Our workshop this week was based off some of the learnings from Shuchen in relation to “speechRec” in p5js. The level of accuracy to the speech recognition was quite impressive, whilst having some comical moment of wrong recognition. Although it’s not particularly relevant to my own project, these workshops have activated the creative potential of coding. 
 
+## Notable Works
+[A great lecture by Yuri Suzuki (Sound Designer)](http://spacedapart.com/watch/yuri-suzuki)
+
 ## Project in Progress <br />
 
-A load of questions I’ve been asking myself
-Is there other ways to test a surfboards performance?
-Can a surfboards performance be properly tested digitally?
-How can this be converted to an engaging audience experience? (Or should it not be?)
-How far can a surfboard form be twisted?
-Could these crafts be examined & analysed as was to test their performance?
-How can “new” materials (exterior to the surf industry)  influence the translation at scale? 
-
-## Notable Works:
-A great lecture by Yuri Suzuki (Sound Designer) 
-http://spacedapart.com/watch/yuri-suzuki
-
-
-Images:
-
-
+A load of questions I’ve been asking myself <br />
+* What cant a surfboard be made from?
+* Is there other ways to test a surfboards performance?
+* Can a surfboards performance be properly tested digitally?
+* How can this be converted to an engaging audience experience? (Or should it not be?)
+* How far can a surfboard form be twisted?
+* Could these crafts be examined & analysed as was to test their performance?
+* How can “new” materials (exterior to the surf industry)  influence the translation at scale? 
 
 
 ## Current WIP
-Well... <br />
-* What cant a surfboard be made from? <br />
-* Could the translation of alternative materials show potential once upscaled? <br />
-
 **Sweet Potato Surfboard**
 
 *Begun with several new craft forms 
