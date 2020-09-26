@@ -51,6 +51,7 @@ The past week I’ve continued to work through different translations of the cra
 
 **Publication Tests**
 (Book interiors and offcuts)
+
 ![FS_Surfboard Scan 16](https://user-images.githubusercontent.com/68723193/94330404-989b0780-0007-11eb-939f-3636e07e8f1c.jpeg)
 
 
@@ -67,9 +68,12 @@ The past week I’ve continued to work through different translations of the cra
 
 **Pantograph Test**
 (Using the materials I had at my disposal)
+
+
 ![Pantograph Test](https://user-images.githubusercontent.com/68723193/94330473-63db8000-0008-11eb-9da2-2e14bc5ab55f.JPG)
 
 **Sweet Potato Surfboards update**
+
 
 ![Sweet Potato Surfboards update](https://user-images.githubusercontent.com/68723193/94330476-6a69f780-0008-11eb-9e45-18619d978039.JPG)
 
