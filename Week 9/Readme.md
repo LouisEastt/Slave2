@@ -31,6 +31,7 @@ The past week I’ve continued to work through different translations of the cra
 * What are other potential translations that I haven’t explored?
 * Could I work through a personal visualisation that assesses the forms? 
 * Narrated visualisation attempting to assess their performance?
+* How should the models be photographed? (That properly reflects the project..?)
 
 ## Next Steps?
 
@@ -40,5 +41,4 @@ The past week I’ve continued to work through different translations of the cra
 * Explore alternative translations of craft forms?
 * Web app potential.. is this something I should keep developing?
 
-## Could the process be implemented into a manual rig?
-* Extending the physical process?
+
