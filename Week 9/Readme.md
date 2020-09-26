@@ -44,12 +44,12 @@ The past week I’ve continued to work through different translations of the cra
 
 ## WIP
 
-*Some of my polystyrene models*
-(Testing potential photographic styles)
+**Some of my polystyrene models**
+(Testing potential photographic styles) <br />
 
 <img width="451" alt="Screen Shot 2020-09-25 at 10 43 36 am" src="https://user-images.githubusercontent.com/68723193/94330395-85883780-0007-11eb-9f32-c67829ec4f6e.png">
 
-*Publication Tests*
+**Publication Tests**
 (Book interiors and offcuts)
 ![FS_Surfboard Scan 16](https://user-images.githubusercontent.com/68723193/94330404-989b0780-0007-11eb-939f-3636e07e8f1c.jpeg)
 
@@ -65,11 +65,11 @@ The past week I’ve continued to work through different translations of the cra
 ![KK_Surfboard Scan 41](https://user-images.githubusercontent.com/68723193/94330422-d5ff9500-0007-11eb-8b29-b7bd288571a1.jpeg)
 
 
-*Pantograph Test*
+**Pantograph Test**
 (Using the materials I had at my disposal)
 ![Pantograph Test](https://user-images.githubusercontent.com/68723193/94330473-63db8000-0008-11eb-9da2-2e14bc5ab55f.JPG)
 
-*Sweet Potato Surfboards update*
+**Sweet Potato Surfboards update**
 
 ![Sweet Potato Surfboards update](https://user-images.githubusercontent.com/68723193/94330476-6a69f780-0008-11eb-9e45-18619d978039.JPG)
 
