@@ -1,5 +1,5 @@
 # Week 7
-## Quick Progress Presentation, Pseudo Code and Processing Workshop
+## Quick Progress Presentation, Pseudo Code & Processing Workshop
 
 ## Summary <br />
 You know what.. I was about to write a summary of what happened today as I have in the past few weeks.. Will this ever be read.. is this useful..? I don’t know.. I’m likely just rambling. I’ll be quick, maybe it’ll be useful later. 
