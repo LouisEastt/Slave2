@@ -1,0 +1,87 @@
+//Surfboard Generator 003
+//WIP by Louis Eastuagh
+//..6 anchor pt Craft
+//.. (3 top & 3 bottom)
+
+color pink = color(224,94,175);
+color blue = color(40,96,222);
+color orange = color(232,135,42);
+color green = color(42,232,126);
+
+float xNoseL = random(150,250);
+float yNoseL = random(150, 280);
+
+float xNose = random(250,350);
+float yNose = random(80,200);
+
+float xNoseR = random(350,450);
+float yNoseR = random(150,280);
+
+float xTailL = random(150,250);
+float yTailL = random(320,750);
+
+float xTail = random(250,350);
+float yTail = random(700,820);
+
+float xTailR = random(350,450);
+float yTailR = random(320,750);
+
+float curv = random(-30,0);
+
+
+void setup() {
+  size (600,900);
+  background(blue);
+}
+
+
+void draw() {
+  
+}
+
+void mousePressed () {
+  
+float xNoseL = random(150,250);
+float yNoseL = random(150, 280);
+
+float xNose = random(250,350);
+float yNose = random(150,280);
+
+float xNoseR = random(350,450);
+float yNoseR = random(150,280);
+
+float xTailL = random(150,250);
+float yTailL = random(320,750);
+
+float xTail = random(250,350);
+float yTail = random(700,820);
+
+float xTailR = random(350,450);
+float yTailR = random(320,750);
+
+float curv = random(-40,40);
+
+
+    noFill();
+    background(blue);
+  
+     //Curve from Nose Left To Nose Middle
+  bezier(xNoseL,yNoseL,((xNoseL+xNose)/2)+curv,((yNoseL+yNose)/2)+curv,((xNoseL+xNose)/2)+curv,((yNoseL+yNose)/2)+curv,xNose,yNose);
+  
+    
+    //Curve from Nose To Nose Right
+  bezier(xNose,yNose,((xNose+xNoseR)/2)+curv,((yNose+yNoseR)/2)+curv,((xNose+xNoseR)/2)+curv,((yNose+yNoseR)/2)+curv,xNoseR,yNoseR);
+  
+    //Curve From Nose Right to Tail Right 
+  bezier(xNoseR,yNoseR,((xNoseR+xTailR)/2)+curv,((yNoseR+yTailR)/2)+curv,((xNoseR+xTailR)/2)+curv,((yNoseR+yTailR)/2)+curv,xTailR,yTailR);
+  
+    //Curve from Tail Right to Tail Middle
+  bezier(xTailR,yTailR,((xTailR+xTail)/2)+curv,((yTailR+yTail)/2)+curv,((xTailR+xTail)/2)+curv,((yTailR+yTail)/2)+curv,xTail,yTail);
+
+    //Curve from Tail Middle to Tail Left
+  bezier(xTail,yTail,((xTail+xTailL)/2)+curv,((yTail+yTailL)/2)+curv,((xTail+xTailL)/2)+curv,((yTail+yTailL)/2)+curv,xTailL,yTailL);
+  
+    //Curve from Tail Left to Nose Left
+  bezier(xTailL,yTailL,((xTailL+xNoseL)/2)+curv,((yTail+yNoseL)/2)+curv,((xTail+xNoseL)/2)+curv,((yTail+yNoseL)/2)+curv,xNoseL,yNoseL);
+    
+}
