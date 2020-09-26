@@ -42,4 +42,12 @@ The past week I’ve continued to work through different translations of the cra
 * Web app potential.. is this something I should keep developing?
 * Continuing to test 3D development? (Visualising forms infront of photographs)
 
+## WIP
+
+*Some of my polystyrene models*
+(Testing potential photographic styles)
+
+<img width="451" alt="Screen Shot 2020-09-25 at 10 43 36 am" src="https://user-images.githubusercontent.com/68723193/94330395-85883780-0007-11eb-9f32-c67829ec4f6e.png">
+
+
 
