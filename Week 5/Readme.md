@@ -1,6 +1,4 @@
-# Week 5
-
-## Pitch Presentation
+# Week 5: Pitch Presentation
 
 **Feedback**
 * Could the surfboards be influenced by the ocean? (Surfboards designed for particular conditions) **(Sam Linford Koesterke)**
