@@ -2,6 +2,33 @@
 
 ## Project Presentations, Continued Development and Exploration
 
+## Summary <br />
+
+We began with a quick rapid-fire outline of our current projects, each showcasing a gif that was able to outline our working prototype. It was an enjoyable way to be able to see the development and progress of the studio projects. My paper prototype was a potential web program that would allow users to play and experiment with the 3 generative systems. I’m not sure if this is something I’ll continue to pursue as I don’t think it is able to show the full potential of the project. I’m concerned that the program may be intriguing for a moment and the user likely not being able to visualise the craft forms beyond their 2D rendition. I can see potential in creating an experience where the user is guided to create their own 3D models from the generated forms. However at this stage I think I’ll need to be more sure of the project before crafting a workshop concept. 
+
+
+## Workshop <br />
+
+Our workshop this week was based off some of the learnings from Shuchen in relation to “speechRec” in p5js. The level of accuracy to the speech recognition was quite impressive, whilst having some comical moment of wrong recognition. Although it’s not particularly relevant to my own project, these workshops have activated the creative potential of coding. 
+
+## Project in Progress <br />
+
+A load of questions I’ve been asking myself
+Is there other ways to test a surfboards performance?
+Can a surfboards performance be properly tested digitally?
+How can this be converted to an engaging audience experience? (Or should it not be?)
+How far can a surfboard form be twisted?
+Could these crafts be examined & analysed as was to test their performance?
+How can “new” materials (exterior to the surf industry)  influence the translation at scale? 
+
+## Notable Works:
+A great lecture by Yuri Suzuki (Sound Designer) 
+http://spacedapart.com/watch/yuri-suzuki
+
+
+Images:
+
+
 
 
 ## Current WIP
