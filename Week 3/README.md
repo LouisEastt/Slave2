@@ -54,7 +54,7 @@ Matt DesLauriers https://www.mattdesl.com/ <br />
 
 ![IMG_8730](https://user-images.githubusercontent.com/68723193/89702433-9eb82480-d984-11ea-8bfd-81cb1ae7c32d.PNG)
 
-**Drawing Machine Outcomes** <br />
+#### Drawing Machine Outcomes <br />
 *Trampoline Drawing*  <br />
 ![TRAMP DRAWING 2](https://user-images.githubusercontent.com/68723193/89702497-3453b400-d985-11ea-8702-9b2d3170304e.jpeg)
 
