@@ -12,7 +12,7 @@ We began with a quick rapid-fire outline of our current projects, each showcasin
 Our workshop this week was based off some of the learnings from Shuchen in relation to “speechRec” in p5js. The level of accuracy to the speech recognition was quite impressive, whilst having some comical moment of wrong recognition. Although it’s not particularly relevant to my own project, these workshops have activated the creative potential of coding. 
 
 ## Notable Works
-[A great lecture by Yuri Suzuki (Sound Designer)](http://spacedapart.com/watch/yuri-suzuki)
+A great lecture by [Yuri Suzuki](http://spacedapart.com/watch/yuri-suzuki)(Sound Designer)
 
 ## Project in Progress <br />
 
