@@ -1,6 +1,6 @@
 # Week 8 
 
-## 1 MIN Presentations, Continued Development and Exploration..
+## Project Presentations, Continued Development and Exploration
 
 
 
