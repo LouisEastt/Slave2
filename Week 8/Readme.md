@@ -66,11 +66,10 @@ A load of questions I’ve been asking myself <br />
 (By Karen Ann Donnachie)
 
 *Speech to Text*
-
-<img width="1465" alt="Screen Shot 2020-09-26 at 2 43 10 pm" src="https://user-images.githubusercontent.com/68723193/94330337-0561d200-0007-11eb-9201-f92bb4b0212c.png">
+<img width="1465" alt="Screen Shot 2020-09-26 at 2 43 28 pm" src="https://user-images.githubusercontent.com/68723193/94330373-4f4ab800-0007-11eb-9f0a-d93cfae6be6a.png">
 <img width="1465" alt="Screen Shot 2020-09-26 at 2 45 25 pm" src="https://user-images.githubusercontent.com/68723193/94330341-0a268600-0007-11eb-9d15-ea2ff76c6c0f.png">
 
-* Speech to Text (with Wiggly Letters)*
+*Speech to Text (with Wiggly Letters)*
 
 ![Screen Shot 2020-09-18 at 3 58 00 pm](https://user-images.githubusercontent.com/68723193/94330285-8a98b700-0006-11eb-8d5e-b27561fd589a.png)
 
