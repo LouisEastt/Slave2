@@ -82,7 +82,7 @@ Orta Miklos <br />
 
 ## Images: <br />
 
-Polystyrene Models
+**Polystyrene Models**
 
 ![IMG_8827](https://user-images.githubusercontent.com/68723193/93411794-49562800-f8df-11ea-8f7e-32652b04dbe3.JPG) 
 ![IMG_8821](https://user-images.githubusercontent.com/68723193/93411831-583cda80-f8df-11ea-9fa1-b49f4a4c9067.JPG)
@@ -90,7 +90,7 @@ Polystyrene Models
 ![IMG_8900](https://user-images.githubusercontent.com/68723193/93411841-5c68f800-f8df-11ea-9b2e-b45a2e6fbf54.jpg)
 ![IMG_8906](https://user-images.githubusercontent.com/68723193/93411851-60951580-f8df-11ea-8407-f5c55c1b216e.jpg)
 
-Playing with Glue
+**Playing with Glue**
 * Testing other ways of translating a 2D form
 
 ![IMG_8809](https://user-images.githubusercontent.com/68723193/93411867-67bc2380-f8df-11ea-853e-bd4379b5f20b.JPG)
@@ -98,23 +98,23 @@ Playing with Glue
 
 
 
-Paper Prototyping <br /> 
-*Potential systems
+**Paper Prototyping** <br /> 
+*Potential systems*
 
 ![Potential Systems](https://user-images.githubusercontent.com/68723193/93061729-5395dd80-f6b7-11ea-853b-725f1338d61d.jpeg)
 
 
-Potential Web app
-*Surfboard Generator, able to move through systems
+**Potential Web app**
+*Surfboard Generator, able to move through systems*
 ![Paper-Prototype-Surfboard-Gen-1](https://user-images.githubusercontent.com/68723193/93061583-1cbfc780-f6b7-11ea-863f-8d007e7aa1f8.gif)
 
 
-Both systems running 
+**Both systems running**
 
 ![Working-Systems-0 35](https://user-images.githubusercontent.com/68723193/93065834-8bebea80-f6bc-11ea-9d5c-c8a90e3d82a7.gif)
 
 
-Current Updated Models
+**Current Updated Models**
 
 
 ## Class Workshop 
