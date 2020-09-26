@@ -1,4 +1,5 @@
-# Week 3: Rules based Design, Drawing Machine Workshop & Pitch Introduction
+# Week 3
+# Rules based Design, Drawing Machine Workshop & Pitch Introduction
 
 ## Summary <br />
 This week Karen gave us the opportunity to avoid out flat screens and indulge into the real world. We examined a range of generative works that don’t use code.. employing a rules-based design system. Looking to defer agency. <br />
