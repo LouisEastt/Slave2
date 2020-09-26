@@ -1,4 +1,3 @@
-```
 //Surfboard Generator 1
 //WIP by Louis Eastaugh
 
@@ -81,4 +80,4 @@ float curv = random(-40,40);
   bezier(xRailL,yRailL,((xRailL+xNose)/2)+curv,((yRailL+yNose)/2)+curv,((xRailL+xNose)/2)+curv,((yRailL+yNose)/2)+curv,xNose,yNose);
  
 }
-```
+
