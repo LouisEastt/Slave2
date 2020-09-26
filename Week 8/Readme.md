@@ -1,8 +1,7 @@
 # Week 8 
 
-## ***
+## 1 MIN Presentations, Continued Development and Exploration..
 
-To Be Updated.....
 
 
 ## Current WIP
