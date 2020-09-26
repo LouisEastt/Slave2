@@ -79,8 +79,8 @@ END IF
 
 ## Project Feedback
 
-* The human-machine process becoming protaganist within the project **Karen Ann Donnachie**
-* The experimenation/process as an ongoing web performance **Karen Ann Donnachie**
+* The human-machine process becoming protaganist within the project **(Karen Ann Donnachie)**
+* The experimenation/process as an ongoing web performance **(Karen Ann Donnachie)**
 
 
 ## Run down of Current Project <br />
