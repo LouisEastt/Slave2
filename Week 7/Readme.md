@@ -9,6 +9,8 @@ We gave a quick rundown of each of our projects.. accessing our learning, outcom
 
 ## (Daily) Pseudo Code <br />
 
+
+```
 “Showering” <br />
 INT time; <br />
 INT shower; <br />
@@ -23,8 +25,9 @@ ELSE IF (clean = TRUE){ <br />
 	} <br />
 
 END IF <br />
-	
+```	
 
+```
 “Breathing” <br />
 INT time; <br />
 INT lastBreathTime; <br />
@@ -41,7 +44,7 @@ IF (breath = FALSE){ <br />
 } <br />
 
 END IF  <br />
-
+```
 
 
  
