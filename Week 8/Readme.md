@@ -26,11 +26,21 @@ A load of questions I’ve been asking myself <br />
 * Could these crafts be examined & analysed as was to test their performance?
 * How can “new” materials (exterior to the surf industry)  influence the translation at scale? 
 
+**Feedback**
+(Karen Ann Donnachie)
+* Could the process be implemented into a manual rig?
+* Extending the physical process?
+* Crafting a pantograph to upscale the designs from screen or from smaller model?
+* Could the 3D designs be visualised in 3D space? Referencing three.js resources? 
+* Potentially you could use existing books/printed matter to showcase designs? (Carving through book form)
+
+
+
 
 ## Current WIP
 **Sweet Potato Surfboard**
 
-*Begun with several new craft forms 
+*Begun with several new craft forms*
 ![IMG_8866](https://user-images.githubusercontent.com/68723193/93464231-31f15c00-f92c-11ea-8ab0-09a37300053b.JPG)
 ![IMG_8871](https://user-images.githubusercontent.com/68723193/93464241-36b61000-f92c-11ea-8853-9c3563258fa1.jpg)
 ![IMG_8875](https://user-images.githubusercontent.com/68723193/93464244-387fd380-f92c-11ea-9734-bd61c006c625.jpg)
