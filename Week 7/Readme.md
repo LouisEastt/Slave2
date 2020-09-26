@@ -91,7 +91,7 @@ Orta Miklos <br />
 ![IMG_8906](https://user-images.githubusercontent.com/68723193/93411851-60951580-f8df-11ea-8407-f5c55c1b216e.jpg)
 
 **Playing with Glue**
-* Testing other ways of translating a 2D form
+*Testing other ways of translating a 2D form*
 
 ![IMG_8809](https://user-images.githubusercontent.com/68723193/93411867-67bc2380-f8df-11ea-853e-bd4379b5f20b.JPG)
 ![IMG_8811](https://user-images.githubusercontent.com/68723193/93411870-6985e700-f8df-11ea-9f30-155ae6b92c78.JPG)
