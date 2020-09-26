@@ -1,6 +1,6 @@
 # Week 9
 
-## Quick Progress Presentation, Pseudo Code and Processing Workshop
+# Milestone Review, Feedback & p5js Workshop
 
 ## Summary
 
