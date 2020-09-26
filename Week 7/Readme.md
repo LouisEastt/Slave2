@@ -65,9 +65,9 @@ Is this project about <br />
 
 If the project is about their potential in the surf and I am not able to surf them.. what is the most suitable way for them to be translated?  <br />
 
-Should they be constructed as models..  <br />
-Should I create an archive of these forms?  <br />
-Select and construct the ones that I appear to see potential? <br />
+* Should they be constructed as models..  <br />
+* Should I create an archive of these forms?  <br />
+* Select and construct the ones that I appear to see potential? <br />
 		(A type of non-human/human collaboration?) <br />
 
 
