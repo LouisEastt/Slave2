@@ -1,5 +1,5 @@
 # Week (Mid Sem)
-# Creating generative craft system & first models
+# Creating generative system & first models
 
 ## What could my project look like..(now)? <br />
 
