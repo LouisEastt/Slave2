@@ -8,9 +8,9 @@ To Be Updated.....
 ## Current WIP
 #### Well... What could a surfboard be? <br />
 
-Sweet Potato Surfboard
+**Sweet Potato Surfboard**
 
-Begun with several new craft forms 
+*Begun with several new craft forms 
 ![IMG_8866](https://user-images.githubusercontent.com/68723193/93464231-31f15c00-f92c-11ea-8ab0-09a37300053b.JPG)
 ![IMG_8871](https://user-images.githubusercontent.com/68723193/93464241-36b61000-f92c-11ea-8853-9c3563258fa1.jpg)
 ![IMG_8875](https://user-images.githubusercontent.com/68723193/93464244-387fd380-f92c-11ea-9734-bd61c006c625.jpg)
@@ -18,13 +18,13 @@ Begun with several new craft forms
 ![IMG_8890](https://user-images.githubusercontent.com/68723193/93464646-d5db0780-f92c-11ea-8100-e26ec7897cd2.JPG)
 ![IMG_8898](https://user-images.githubusercontent.com/68723193/93464255-3cabf100-f92c-11ea-8eda-b2f254a5735d.JPG)
 
-* Web Testing 
+*Web Testing 
 (Converting sketch to p5js)
 
 <img width="1792" alt="Screen Shot 2020-09-13 at 4 59 20 pm" src="https://user-images.githubusercontent.com/68723193/93543880-05772780-f9a0-11ea-9e26-8f99bf5ae479.png">
 <img width="1792" alt="Screen Shot 2020-09-13 at 4 59 24 pm" src="https://user-images.githubusercontent.com/68723193/93543891-09a34500-f9a0-11ea-905f-b2090c5cc832.png">
 
-* 3D Testing
+*3D Testing
 
 <img width="1680" alt="Screen Shot 2020-09-15 at 12 09 45 pm" src="https://user-images.githubusercontent.com/68723193/93464730-f905b700-f92c-11ea-9b9a-fe111af36aaa.png">
 <img width="1680" alt="Screen Shot 2020-09-15 at 12 09 48 pm" src="https://user-images.githubusercontent.com/68723193/93464755-01f68880-f92d-11ea-97a4-1173711cc541.png">
