@@ -14,7 +14,7 @@ This week we were introduced to split canvases, assessing their potential and ho
 
 The past week I’ve continued to work through different translations of the craft forms, exploring an idea that Karen gave me last lesson to use existing books to showcase the designs. This was incredibly fun and allowed for several interesting results (the off-cuts and book interiors). Often the forms would overlap, reveal and juxtapose content.. although they never seemed to be performing isolated. Although, is that important? The project has underlying ideas which explore sustainability in surfing and re-using existing printed matter seems like a valid concept to showcase their forms. Potentially I could use books with less visual stimuli and hack the design to suit my needs? For example by re-contextualising the cues to the original book? (Front Cover, Title page, etc) Although I do think that recognising the past of the publication  does feel important.
 
-**Feedback**
+## Feedback
 
 * Looking at all the development as potential research..
 
@@ -40,5 +40,6 @@ The past week I’ve continued to work through different translations of the cra
 * Evaluate suitable exploration of research/development (Publication)
 * Explore alternative translations of craft forms?
 * Web app potential.. is this something I should keep developing?
+* Continuing to test 3D development? (Visualising forms infront of photographs)
 
 
