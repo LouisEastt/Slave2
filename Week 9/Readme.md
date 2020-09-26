@@ -32,19 +32,13 @@ The past week I’ve continued to work through different translations of the cra
 * Could I work through a personal visualisation that assesses the forms? 
 * Narrated visualisation attempting to assess their performance?
 
+## Next Steps?
 
+* Continue exploration into book mocking of existing books
+* Continue to construct polystyrene models
+* Evaluate suitable exploration of research/development (Publication)
+* Explore alternative translations of craft forms?
+* Web app potential.. is this something I should keep developing?
 
-
-
-
-Next Steps?
-
-Continue exploration into book mocking of existing books
-Continue to construct polystyrene models
-Evaluate suitable exploration of research/development (Publication)
-Explore alternative translations of craft forms?
-Web app potential.. is this something I should keep developing?
-
-
-Could the process be implemented into a manual rig?
+## Could the process be implemented into a manual rig?
 * Extending the physical process?
