@@ -8,7 +8,7 @@ Later.. Andy walked us through paper prototyping. Showing us the power of quick 
 
 
 ## Notable Works: <br />
-(Found) <br />
+**(Found)** <br />
 “Shape Grammer” by Jannie Maroscheck <br />
 https://www.slanted.de/product/shape-grammars/ 
 
@@ -21,7 +21,7 @@ From our presentation last week.. I haven’t spent any time working directly on
 Heather- Dewey Hagborg <br />
 Takehito Etani <br />
 
-(Found) <br />
+**(Found)** <br />
 Leo Orta Miklos (Abstract Furniture Design) <br />
 Hanna Hansdotter (Sculptural) <br />
 
