@@ -46,6 +46,37 @@ IF (breath = FALSE){
 END IF 
 ```
 
+```
+"Web App (Surfboard Generator)"
+
+START
+INPUT surfGen01
+INPUT surfGen02
+INPUT surfGen03
+
+WHILE  Mouse Pressed 
+	(Left of Screen) 
+(surfGen01 = TRUE)
+
+WHILE Mouse Pressed
+	(Middle of Screen) 
+(surfGen02 = TRUE)
+
+WHILE Mouse Pressed
+	(Right of Screen) 
+(SurfGen03 = TRUE)
+
+
+IF Mouse Pressed 
+	(Top Left)
+	(SurfGen01)
+(Rotate 90 deg)
+	(Translate to middle of screen)
+
+END IF	
+```
+
+
 
  
 
