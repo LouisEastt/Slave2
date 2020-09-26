@@ -2,13 +2,12 @@
 
 ## ***
 
-[Song](https://www.youtube.com/watch?v=oXx2TczveMI&list=RDMMpBR01ndtids&index=2&ab_channel=slowthaiVEVO)
-
 To Be Updated.....
 
 
 ## Current WIP
-#### Well... What could a surfboard be? <br />
+Well... <br />
+* What could a surfboard be? <br />
 
 **Sweet Potato Surfboard**
 
