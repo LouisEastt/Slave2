@@ -7,7 +7,7 @@ To Be Updated.....
 
 ## Current WIP
 Well... <br />
-* What can a surfboard be made from? <br />
+* What cant a surfboard be made from? <br />
 * Could the translation of alternative materials show potential once upscaled? <br />
 
 **Sweet Potato Surfboard**
