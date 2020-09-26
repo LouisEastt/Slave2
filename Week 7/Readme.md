@@ -11,39 +11,39 @@ We gave a quick rundown of each of our projects.. accessing our learning, outcom
 
 
 ```
-“Showering” <br />
-INT time; <br />
-INT shower; <br />
-BOOLEAN clean; <br />
+“Showering” 
+INT time; 
+INT shower; 
+BOOLEAN clean; 
 
-IF (clean = FALSE){ <br />
-	time since shower = TRUE> 5 hrs <br />
-	shower = TRUE <br />
-} <br />
-ELSE IF (clean = TRUE){ <br />
-	Shower = FALSE; <br />
-	} <br />
+IF (clean = FALSE){ 
+	time since shower = TRUE> 5 hrs
+	shower = TRUE
+} 
+ELSE IF (clean = TRUE){ 
+	Shower = FALSE;
+	} 
 
-END IF <br />
+END IF 
 ```	
 
 ```
-“Breathing” <br />
-INT time; <br />
-INT lastBreathTime; <br />
-BOOLEAN breath; <br />
-BOOLEAN nauseous; <br />
+“Breathing” 
+INT time; 
+INT lastBreathTime; 
+BOOLEAN breath; 
+BOOLEAN nauseous; 
 
-IF (breath = TRUE){ <br />
-	lastBreathTime = time; <br />
-IF (lastBreathTime > 60 seconds){ <br />
-Breath = TRUE <br />
+IF (breath = TRUE){
+	lastBreathTime = time; 
+IF (lastBreathTime > 60 seconds){ 
+Breath = TRUE
 
-IF (breath = FALSE){ <br />
-	Breath = TRUE; <br />
-} <br />
+IF (breath = FALSE){ 
+	Breath = TRUE; 
+}
 
-END IF  <br />
+END IF 
 ```
 
 
