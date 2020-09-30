@@ -10,8 +10,7 @@ Later.. Andy walked us through paper prototyping. Showing us the power of quick 
 
 ## Notable Works <br />
 **(Found)** <br />
-“Shape Grammer” by Jannie Maroscheck <br />
-https://www.slanted.de/product/shape-grammars/ 
+[“Shape Grammer” by Jannie Maroscheck]https://www.slanted.de/product/shape-grammars/)
 
 ##What could my project look like..(now)?
 From our presentation last week.. I haven’t spent any time working directly on the creation of my project. Rather.. trying to nut out how I want the project to be developed. I’m struggling with understanding how abstracted I am happy with the surf crafts being.. How wacky do I allow? Re-thinking my approach.. I wonder if it is worth twisting conventional forms in abstract ways. Rather than creating completely abstracted crafts with no basis in surfboard forms. Honestly, I like the approach of both and I think I have to develop each idea. I have realised that I will need to start creating physical models before I have a finished system.. I think it could even potentially help in the design of the system. 
