@@ -18,15 +18,15 @@ After the first week workshop.. I decided to make another generative system. Iâ€
  
 Dave Whyte  <br />
 Denial of Service  <br />
-Sergio Albiac (https://www.sergioalbiac.com/index.html)  <br />
-Joshua Davis (https://joshuadavis.com/)  <br />
-Rune Madson (https://runemadsen.com/)  <br />
-Sage Jenson (https://sagejenson.com/)  <br />
-Bradley G Munkowitz (https://gmunk.com/)  <br />
-*Philipp Schmitt (https://philippschmitt.com/)  <br />
-*Mark Dorf (http://mdorf.com/)  <br />
-Rafael Rozendaal (https://www.newrafael.com/)   <br />
-*Tim Rodenbroeker (https://timrodenbroeker.de/)  <br />
+[Sergio Albiac](https://www.sergioalbiac.com/index.html)  <br />
+[Joshua Davis](https://joshuadavis.com/)  <br />
+[Rune Madson](https://runemadsen.com/)  <br />
+[Sage Jenson](https://sagejenson.com/)  <br />
+[Bradley G Munkowitz](https://gmunk.com/)  <br />
+* [Philipp Schmitt](https://philippschmitt.com/)  <br />
+* [Mark Dorf](http://mdorf.com/)  <br />
+[Rafael Rozendaal](https://www.newrafael.com/)   <br />
+* [Tim Rodenbroeker] (https://timrodenbroeker.de/)  <br />
 -Has a range of Processing tutorials  <br />
 
 
