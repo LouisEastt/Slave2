@@ -14,10 +14,10 @@ We finished the afternoon by trying to interpret some of the INPUTS & OUTPUTS th
 Tim Knowles “Tree Drawing” <br />
 David Shingler “Bird Machine” <br />
 Jamie Newton “Wind Powered Drawing Machine” <br />
-Edouard Cabay “Perpetual Unknowns” https://petermagnus.com/portfolio_page/perpetual-unknowns/ <br />
-Edouard Cabay “Machinic Protocols” https://www.koozarch.com/abstractions/machinic-protocols/ <br />
-Nate Tyler “Geometry” (Not a drawing machine, Architecture informed by nature) https://www.instagram.com/p/CCXDnWkj56f/ <br />
-“Wind Powered Drawing Machine” (Using Arduino) http://www.iaacblog.com/programs/wind-drawing-machine/ <br />
+[Edouard Cabay “Perpetual Unknowns”] (https://petermagnus.com/portfolio_page/perpetual-unknowns/) <br />
+[Edouard Cabay “Machinic Protocols”] (https://www.koozarch.com/abstractions/machinic-protocols/) <br />
+[Nate Tyler “Geometry”] (Not a drawing machine, Architecture informed by nature) https://www.instagram.com/p/CCXDnWkj56f/) <br />
+[“Wind Powered Drawing Machine” (Using Arduino)] (http://www.iaacblog.com/programs/wind-drawing-machine/) <br />
 Joanie Lemercier "Consetllations" (2016)
 
 
@@ -27,7 +27,7 @@ I’m still currently quite interested in creating a generative system to create
 
 
 ## Generative Furniture <br />
-Starck for Kartel “A.I” https://www.starck.com/a-i-for-kartell-by-starck-powered-by-autodesk-kartell-p3534
+[Starck for Kartel “A.I”] (https://www.starck.com/a-i-for-kartell-by-starck-powered-by-autodesk-kartell-p3534)
 Wallgren Arkitekter & Swedish construction company BOX Bygg design [Generative floor plan](https://www.dezeen.com/2019/06/27/adaptive-floor-plans-wallgren-arkitekter-box-bygg-parametric-tool/)
 [Christoph Hermann] (http://www.christoph-hermann.com/) (No mention of Generative/Parametric involvement.. Although the work look as though they are)
 
