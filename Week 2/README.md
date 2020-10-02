@@ -23,10 +23,10 @@ Denial of Service  <br />
 [Rune Madson](https://runemadsen.com/)  <br />
 [Sage Jenson](https://sagejenson.com/)  <br />
 [Bradley G Munkowitz](https://gmunk.com/)  <br />
-* [Philipp Schmitt](https://philippschmitt.com/)  <br />
-* [Mark Dorf](http://mdorf.com/)  <br />
+*  [Philipp Schmitt](https://philippschmitt.com/)  <br />
+*  [Mark Dorf](http://mdorf.com/)  <br />
 [Rafael Rozendaal](https://www.newrafael.com/)   <br />
-* [Tim Rodenbroeker] (https://timrodenbroeker.de/)  <br />
+*  [Tim Rodenbroeker] (https://timrodenbroeker.de/)  <br />
 -Has a range of Processing tutorials  <br />
 
 
