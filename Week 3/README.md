@@ -28,18 +28,18 @@ I’m still currently quite interested in creating a generative system to create
 
 ## Generative Furniture <br />
 Starck for Kartel “A.I” https://www.starck.com/a-i-for-kartell-by-starck-powered-by-autodesk-kartell-p3534
-Wallgren Arkitekter & Swedish construction company BOX Bygg design Generative floor plan https://www.dezeen.com/2019/06/27/adaptive-floor-plans-wallgren-arkitekter-box-bygg-parametric-tool/
-Christoph Hermann http://www.christoph-hermann.com/ (No mention of Generative/Parametric involvement.. Although the work look as though they are)
+Wallgren Arkitekter & Swedish construction company BOX Bygg design [Generative floor plan](https://www.dezeen.com/2019/06/27/adaptive-floor-plans-wallgren-arkitekter-box-bygg-parametric-tool/)
+[Christoph Hermann] (http://www.christoph-hermann.com/) (No mention of Generative/Parametric involvement.. Although the work look as though they are)
 
 
 ## Notable Practioners <br />
 Tim Knowles <br />
 Margie Livingston <br />
-Manola Gamboa Naon http://manoloide.com/ <br />
-Joanie Lemercier https://joanielemercier.com/ <br />
+[Manola Gamboa Naon] (http://manoloide.com/) <br />
+[Joanie Lemercier] (https://joanielemercier.com/) <br />
 ** Edouard Cabay <br />
-Vera Monlar http://www.veramolnar.com/ <br />
-Matt DesLauriers https://www.mattdesl.com/ <br />
+[Vera Monlar](http://www.veramolnar.com/) <br />
+[Matt DesLauriers](https://www.mattdesl.com/)<br />
 
 
 ## Images <br />
