@@ -14,9 +14,9 @@ We finished the afternoon by trying to interpret some of the INPUTS & OUTPUTS th
 Tim Knowles “Tree Drawing” <br />
 David Shingler “Bird Machine” <br />
 Jamie Newton “Wind Powered Drawing Machine” <br />
-[Edouard Cabay “Perpetual Unknowns”](https://petermagnus.com/portfolio_page/perpetual-unknowns/) <br />
-[Edouard Cabay “Machinic Protocols”](https://www.koozarch.com/abstractions/machinic-protocols/) <br />
-[Nate Tyler “Geometry”](Not a drawing machine, Architecture informed by nature) https://www.instagram.com/p/CCXDnWkj56f/) <br />
+Edouard Cabay [“Perpetual Unknowns”](https://petermagnus.com/portfolio_page/perpetual-unknowns/) <br />
+Edouard Cabay [“Machinic Protocols”](https://www.koozarch.com/abstractions/machinic-protocols/) <br />
+Nate Tyler [“Geometry”](Not a drawing machine, Architecture informed by nature) https://www.instagram.com/p/CCXDnWkj56f/) <br />
 [“Wind Powered Drawing Machine” (Using Arduino)](http://www.iaacblog.com/programs/wind-drawing-machine/) <br />
 Joanie Lemercier "Consetllations" (2016)
 
