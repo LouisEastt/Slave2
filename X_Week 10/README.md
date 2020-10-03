@@ -2,7 +2,7 @@
 
 # A New Craft System, Web Development & Book Tests
 
-## The week that has been 
+### The week been 
 
 ## Developing on Polystyrene Forms
 
