@@ -9,14 +9,18 @@ Continued construction of polystyrene models. Crafting an additional 15 models f
 ## A New Craft System
 Taking a step back and analysing the work in relation to the original project aims, I started to think about symmetry and asymmetry in surfboard design. It lead me to wanting to construct a symmetrical craft system that can fit amongst the systems already constructed. 
 
-
-
 <img width="300" alt="Screen Shot 2020-09-30 at 2 49 25 pm" src="https://user-images.githubusercontent.com/68723193/94982384-59c3ff00-057d-11eb-930c-cd6218393d8f.png"> <img width="300" alt="Screen Shot 2020-09-30 at 2 49 28 pm" src="https://user-images.githubusercontent.com/68723193/94982386-5cbeef80-057d-11eb-9aff-2c156577475f.png">  <img width="300" alt="Screen Shot 2020-09-30 at 2 49 35 pm" src="https://user-images.githubusercontent.com/68723193/94982835-516dc300-0581-11eb-9030-a2d4898cacd7.png">
-
-
 
 ## Exploring Book system
 I’ve been trying to create a strong book system to accommodate for the different research/exploration. The book size that I’ve decided on is the pocket book through Lulu (108mm x 175mm), which I think is a suitable way of format for archiving. I’m thinking that the book chapters will be organised as a set of different questions that arise each component of research. It will allow to show the speculative nature of the research without appearing definitive. 
+
+
+<img width="400" alt="02 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982856-73ffdc00-0581-11eb-8e70-18a16b6ec4b8.png"> <img width="400" alt="03 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982857-75c99f80-0581-11eb-8dd0-ba340009eb5a.png"> <img width="400" alt="04 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982858-76facc80-0581-11eb-85a9-7c2eafdc80fa.png"> <img width="400" alt="05 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982861-782bf980-0581-11eb-9cad-7c95b836e110.png">
+
+
+
+<img width="676" alt="01 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982854-719d8200-0581-11eb-858d-45ebaf933155.png">
+
 
 ## Trying to develop a suitable web app for my generative systems
 (That works on different screen sizes)
