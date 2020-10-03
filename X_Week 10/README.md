@@ -67,8 +67,9 @@ To work around some of my earlier decisions, I decided to rotate each system and
 *	What if you had random google images in the background of the display? (Halftone edited)
 *	Trying to resolve some of the subtle overlap of lines that occur when some anchor points are close in proximity..
 
-
-
+## Next Steps
+* Refine Web App
+** wh
 
 
 
