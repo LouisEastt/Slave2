@@ -2,8 +2,6 @@
 
 # A New Craft System, Web Development & Book Tests
 
-### The week been 
-
 ## Developing on Polystyrene Forms
 
 Continued construction of polystyrene models. Crafting an additional 15 models from the different systems.
@@ -23,7 +21,7 @@ My first iteration allowed the three systems that I had worked on to be analysed
 
 ### Second Concept
 (Isolating each system)
-This was a good second step. From here.. after a recommendation from Michael.. I started to use canvas resize to make the window more variable. Although I had a larger issue.. Each system I’ve constructed was not designed with the intent to be shown on web later. The web app wasn’t part of the plan. Each system works off an integer position that was created in relation to my initial processing sketch. If I were to do it again.. I would have made each position a variable dependant on the window dimensions. This concept is great.. although its terrible at smaller window sizes and you can start to reveal its flaws.. Here [click this]( https://louiseastt.github.io/P5js_Sketch/SURFBOR3D/) to play So now.. I move to concept 3 of my web app. 
+This was a good second step. From here.. after a recommendation from Michael.. I started to use canvas resize to make the window more variable. Although I had a larger issue.. Each system I’ve constructed was not designed with the intent to be shown on web later. The web app wasn’t part of the plan. Each system works off an integer position that was created in relation to my initial processing sketch. If I were to do it again.. I would have made each position a variable dependant on the window dimensions. This concept is great.. although its terrible at smaller window sizes and you can start to reveal its flaws.. [Click here]( https://louiseastt.github.io/P5js_Sketch/SURFBOR3D/) to play So now.. I move to concept 3 of my web app. 
 
 ### Third Concept
 (Working with what I’ve got)
