@@ -31,25 +31,25 @@ To work around some of my earlier decisions, I decided to rotate each system and
 
 
 ## Some Feedback
-**Andy Simionato**
-•	Publication as a suitable translation.. (A way of consoledating research)
-•	Activate the potential of the reseach!
-•	Design the shit out of it!
-•	Bring it to design! (So that’s interesting for designers)
-•	Make it so that you’re drawn in..
-•	Consistency is key throughout all design outcomes. Think of it as curating a mini exhibition, a “translation”..
+### Andy Simionato
+*	Publication as a suitable translation.. (A way of consoledating research)
+*	Activate the potential of the reseach!
+*	Design the shit out of it!
+*	Bring it to design! (So that’s interesting for designers)
+*	Make it so that you’re drawn in..
+*	Consistency is key throughout all design outcomes. Think of it as curating a mini exhibition, a “translation”..
 
-**Karen Ann Donncahie**
-•	What if you created a set of surfboards that were designed from surfing experiences? (Using previous surf data?)
-•	What if there were images overlayed on top of the surf craft form? (Web App)
-•	Could there be a save to svg function?
-•	Potentially other links that lead to additional work? (This started to make me think of designing an archive to show the designs alongside. Potentially this could be scans of the book I create? Or.. Images of the research?)
-•	Thinking about mouse pressed usability or touch so that it can be used on mobile?
-•	Potentially using the device shaken function?
+### Karen Ann Donncahie
+*	What if you created a set of surfboards that were designed from surfing experiences? (Using previous surf data?)
+*	What if there were images overlayed on top of the surf craft form? (Web App)
+*	Could there be a save to svg function?
+*	Potentially other links that lead to additional work? (This started to make me think of designing an archive to show the designs alongside. Potentially this could be scans of the book I create? Or.. Images of the research?)
+*	Thinking about mouse pressed usability or touch so that it can be used on mobile?
+*	Potentially using the device shaken function?
 
-**Michael Lam**
-•	What if you had random google images in the background of the display? (Halftone edited)
-•	Trying to resolve some of the subtle overlap of lines that occur when some anchor points are close in proximity..
+### Michael Lam
+*	What if you had random google images in the background of the display? (Halftone edited)
+*	Trying to resolve some of the subtle overlap of lines that occur when some anchor points are close in proximity..
 
 
 
