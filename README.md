@@ -2,7 +2,7 @@
 
 *Welcome* <br />
 
-## This repository is for the studio "Slave to the Algorithm"; broken down by weeks it includes research, development & project exploration
+## Repository for studio "Slave to the Algorithm"; including a weekly breakdown of research, development & project exploration
 
 
 
