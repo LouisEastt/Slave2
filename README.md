@@ -7,8 +7,6 @@
 *Enjoy!* <br />
  <br />
  <br />
- <br />
- <br />
 
 **Week 1** [Introduction to stuido (Critial thinkers & a generative task)](https://github.com/LouisEastt/Slave2/blob/master/Week%201/Readme.md) <br />
 **Week 2** [Instructional Design & Intro to Processing](https://github.com/LouisEastt/Slave2/tree/master/Week%202) <br />
