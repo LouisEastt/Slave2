@@ -1,9 +1,11 @@
 ### Studio : "Slave to the Algorithm" 
+### Name : Louis Eastaugh
 
 *Welcome,* <br />
-*This is repository belonds to Louis Eastaugh..* <br />
-*It's archive of sorts; all things related to the studio "Slave to the Algorithm".* <br />
+*This is repository belonds to Louis..* <br />
+*It's an archive of sorts; all things related to the studio "Slave to the Algorithm".* <br />
 *The content is sorted weekly and includes research, development and project exploration from the studio.*
+*Enjoy!* <br />
  <br />
  <br />
  <br />
