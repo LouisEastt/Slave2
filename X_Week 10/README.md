@@ -1,6 +1,6 @@
 # Week 10
 
-# A New Craft System, Web Development & Book Tests
+# A New Craft System, Web Development, Poly carving & Publication Testing
 
 ## A New Craft System
 Taking a step back and analysing the work in relation to the original project aims, I started to think about symmetry and asymmetry in surfboard design. It lead me to wanting to construct a symmetrical craft system that can fit amongst the systems already constructed. 
@@ -15,7 +15,7 @@ Taking a step back and analysing the work in relation to the original project ai
 <img width='500' alt="IMG_8460" src="https://user-images.githubusercontent.com/68723193/94982923-d9ec6380-0581-11eb-8cda-409654069792.JPG">  
 <img width='500' alt="IMG_8967" src="https://user-images.githubusercontent.com/68723193/94982936-f38dab00-0581-11eb-98b3-e86de6f804d8.jpg">  
 
-## Exploring Book system
+## Book system exploration
 I’ve been trying to create a strong book system to accommodate for the different research/exploration. The book size that I’ve decided on is the pocket book through Lulu (108mm x 175mm), which I think is a suitable way of format for archiving. I’m thinking that the book chapters will be organised as a set of different questions that arise each component of research. It will allow to show the speculative nature of the research without appearing definitive. 
 
 
