@@ -4,6 +4,10 @@
 *This is repository belonds to Louis Eastaugh..* <br />
 *It's archive of sorts; all things related to the studio "Slave to the Algorithm".* <br />
 *The content is sorted weekly and includes research, development and project exploration from the studio.*
+ <br />
+ <br />
+ <br />
+ <br />
 
 **Week 1** [Introduction to stuido (Critial thinkers & a generative task)](https://github.com/LouisEastt/Slave2/blob/master/Week%201/Readme.md) <br />
 **Week 2** [Instructional Design & Intro to Processing](https://github.com/LouisEastt/Slave2/tree/master/Week%202) <br />
