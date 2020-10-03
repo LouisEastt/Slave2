@@ -2,6 +2,11 @@
 
 # A New Craft System, Web Development & Book Tests
 
+## A New Craft System
+Taking a step back and analysing the work in relation to the original project aims, I started to think about symmetry and asymmetry in surfboard design. It lead me to wanting to construct a symmetrical craft system that can fit amongst the systems already constructed. 
+
+<img width="300" alt="Screen Shot 2020-09-30 at 2 49 25 pm" src="https://user-images.githubusercontent.com/68723193/94982384-59c3ff00-057d-11eb-930c-cd6218393d8f.png"> <img width="300" alt="Screen Shot 2020-09-30 at 2 49 28 pm" src="https://user-images.githubusercontent.com/68723193/94982386-5cbeef80-057d-11eb-9aff-2c156577475f.png">  <img width="300" alt="Screen Shot 2020-09-30 at 2 49 35 pm" src="https://user-images.githubusercontent.com/68723193/94982835-516dc300-0581-11eb-9030-a2d4898cacd7.png">
+
 ## Developing on Polystyrene Forms
 Continued construction of polystyrene models. Crafting an additional 15 models from the different systems.
 
@@ -10,12 +15,6 @@ Continued construction of polystyrene models. Crafting an additional 15 models f
 <img width='500' alt="Craft forms Cut_Scan 3" src="https://user-images.githubusercontent.com/68723193/94982915-ca6d1a80-0581-11eb-866c-7c4e415b4e0e.jpeg">
 <img width='500' alt="IMG_8460" src="https://user-images.githubusercontent.com/68723193/94982923-d9ec6380-0581-11eb-8cda-409654069792.JPG">  
 <img width='500' alt="IMG_8967" src="https://user-images.githubusercontent.com/68723193/94982936-f38dab00-0581-11eb-98b3-e86de6f804d8.jpg">  
-
-
-## A New Craft System
-Taking a step back and analysing the work in relation to the original project aims, I started to think about symmetry and asymmetry in surfboard design. It lead me to wanting to construct a symmetrical craft system that can fit amongst the systems already constructed. 
-
-<img width="300" alt="Screen Shot 2020-09-30 at 2 49 25 pm" src="https://user-images.githubusercontent.com/68723193/94982384-59c3ff00-057d-11eb-930c-cd6218393d8f.png"> <img width="300" alt="Screen Shot 2020-09-30 at 2 49 28 pm" src="https://user-images.githubusercontent.com/68723193/94982386-5cbeef80-057d-11eb-9aff-2c156577475f.png">  <img width="300" alt="Screen Shot 2020-09-30 at 2 49 35 pm" src="https://user-images.githubusercontent.com/68723193/94982835-516dc300-0581-11eb-9030-a2d4898cacd7.png">
 
 ## Exploring Book system
 I’ve been trying to create a strong book system to accommodate for the different research/exploration. The book size that I’ve decided on is the pocket book through Lulu (108mm x 175mm), which I think is a suitable way of format for archiving. I’m thinking that the book chapters will be organised as a set of different questions that arise each component of research. It will allow to show the speculative nature of the research without appearing definitive. 
@@ -27,7 +26,7 @@ I’ve been trying to create a strong book system to accommodate for the differe
 ### First Concept
 My first iteration allowed the three systems that I had worked on to be analysed side by side. However I wasn’t sold on how the colours were interacting together. From there I thought that it could be nice to isolate each system once chosen (with arrows). 
 
-<img width="500" alt="01 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983116-1076ae00-0583-11eb-8f70-1c53241ad2ed.png"> <img width="500" alt="02 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983118-153b6200-0583-11eb-941c-f52a43092165.png"> <img width="500" alt="03 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983119-15d3f880-0583-11eb-8476-437f909b33a0.png">  <img width="500" alt="04 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983121-17052580-0583-11eb-9bfc-f7e0722c044d.png"> 
+<img width="600" alt="01 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983116-1076ae00-0583-11eb-8f70-1c53241ad2ed.png"> <img width="600" alt="02 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983118-153b6200-0583-11eb-941c-f52a43092165.png"> <img width="600" alt="03 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983119-15d3f880-0583-11eb-8476-437f909b33a0.png">  <img width="600" alt="04 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983121-17052580-0583-11eb-9bfc-f7e0722c044d.png"> 
 
 ### Second Concept
 (Isolating each system)
