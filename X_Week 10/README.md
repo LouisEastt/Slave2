@@ -69,8 +69,12 @@ To work around some of my earlier decisions, I decided to rotate each system and
 
 ## Next Steps
 * Web app scale function to work on different screen sizes (Ensure that craft form works within rectangle form)
-* Fix Type Arrow features to stop looping re-draw 
-*
+* Fix Type Arrow features to stop looping re-draw  
+* Consider other typographic information for web app (Links to additional archive, info about project, etc)
+* Photograph constructed models for publicatoin (in chosen photographic style)
+* Decide on book system 
+* Work through publication (Editing Images, consolodating resources, etc)
+* Statement and additonal writing for "SURFBOR3D"
 
 
 
