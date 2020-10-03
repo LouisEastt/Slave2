@@ -9,9 +9,11 @@ Continued construction of polystyrene models. Crafting an additional 15 models f
 ## A New Craft System
 Taking a step back and analysing the work in relation to the original project aims, I started to think about symmetry and asymmetry in surfboard design. It lead me to wanting to construct a symmetrical craft system that can fit amongst the systems already constructed. 
 
-:-------------------------:|:-------------------------:
-![](<img width="712" alt="Screen Shot 2020-09-30 at 2 49 25 pm" src="https://user-images.githubusercontent.com/68723193/94982384-59c3ff00-057d-11eb-930c-cd6218393d8f.png">
-)|  ![](img width="712" alt="Screen Shot 2020-09-30 at 2 49 28 pm" src="https://user-images.githubusercontent.com/68723193/94982386-5cbeef80-057d-11eb-9aff-2c156577475f.png")
+<p float="left">
+  <img src="Screen Shot 2020-09-30 at 2 49 25 pm" src="https://user-images.githubusercontent.com/68723193/94982384-59c3ff00-057d-11eb-930c-cd6218393d8f.png" />
+  <img src="Screen Shot 2020-09-30 at 2 49 28 pm" src="https://user-images.githubusercontent.com/68723193/94982386-5cbeef80-057d-11eb-9aff-2c156577475f.png" /> 
+  <img src="Screen Shot 2020-09-30 at 2 48 41 pm" src="https://user-images.githubusercontent.com/68723193/94982795-defce300-0580-11eb-8970-42753f8065e7.png" />
+</p>
 
 <img width="712" alt="Screen Shot 2020-09-30 at 2 49 25 pm" src="https://user-images.githubusercontent.com/68723193/94982384-59c3ff00-057d-11eb-930c-cd6218393d8f.png">
 <img width="712" alt="Screen Shot 2020-09-30 at 2 49 28 pm" src="https://user-images.githubusercontent.com/68723193/94982386-5cbeef80-057d-11eb-9aff-2c156577475f.png">
