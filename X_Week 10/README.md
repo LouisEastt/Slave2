@@ -3,8 +3,10 @@
 # A New Craft System, Web Development & Book Tests
 
 ## Developing on Polystyrene Forms
-
 Continued construction of polystyrene models. Crafting an additional 15 models from the different systems.
+
+![IMG_8944](https://user-images.githubusercontent.com/68723193/94982919-d0fb9200-0581-11eb-9cad-b77bf9999578.jpg) ![IMG_8938](https://user-images.githubusercontent.com/68723193/94982918-ce00a180-0581-11eb-9b28-4e89aa53080f.jpg) ![IMG_8460](https://user-images.githubusercontent.com/68723193/94982923-d9ec6380-0581-11eb-8cda-409654069792.JPG) ![IMG_8967](https://user-images.githubusercontent.com/68723193/94982936-f38dab00-0581-11eb-98b3-e86de6f804d8.jpg) ![Craft forms Cut_Scan 3](https://user-images.githubusercontent.com/68723193/94982915-ca6d1a80-0581-11eb-866c-7c4e415b4e0e.jpeg)
+
 
 ## A New Craft System
 Taking a step back and analysing the work in relation to the original project aims, I started to think about symmetry and asymmetry in surfboard design. It lead me to wanting to construct a symmetrical craft system that can fit amongst the systems already constructed. 
@@ -16,12 +18,8 @@ I’ve been trying to create a strong book system to accommodate for the differe
 
 <img width="400" alt="01 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982854-719d8200-0581-11eb-858d-45ebaf933155.png"> <img width="400" alt="02 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982856-73ffdc00-0581-11eb-8e70-18a16b6ec4b8.png"> <img width="400" alt="03 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982857-75c99f80-0581-11eb-8dd0-ba340009eb5a.png"> <img width="400" alt="04 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982858-76facc80-0581-11eb-85a9-7c2eafdc80fa.png"> <img width="400" alt="05 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982861-782bf980-0581-11eb-9cad-7c95b836e110.png">
 
-
-
-
-
 ## Trying to develop a suitable web app for my generative systems
-(That works on different screen sizes)
+(Working with different screen sizes)
 
 ## Web App Development
 ### First Concept
