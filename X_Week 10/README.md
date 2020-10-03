@@ -22,12 +22,14 @@ I’ve been trying to create a strong book system to accommodate for the differe
 
 <img width="400" alt="01 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982854-719d8200-0581-11eb-858d-45ebaf933155.png"> <img width="400" alt="02 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982856-73ffdc00-0581-11eb-8e70-18a16b6ec4b8.png"> <img width="400" alt="03 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982857-75c99f80-0581-11eb-8dd0-ba340009eb5a.png"> <img width="400" alt="04 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982858-76facc80-0581-11eb-85a9-7c2eafdc80fa.png"> <img width="400" alt="05 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982861-782bf980-0581-11eb-9cad-7c95b836e110.png">
 
-## Trying to develop a suitable web app for my generative systems
-(Working with different screen sizes)
-
 ## Web App Development
 ### First Concept
 My first iteration allowed the three systems that I had worked on to be analysed side by side. However I wasn’t sold on how the colours were interacting together. From there I thought that it could be nice to isolate each system once chosen (with arrows). 
+
+<img width="1792" alt="02 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983118-153b6200-0583-11eb-941c-f52a43092165.png">
+<img width="1792" alt="03 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983119-15d3f880-0583-11eb-8476-437f909b33a0.png">
+<img width="1792" alt="04 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983121-17052580-0583-11eb-9bfc-f7e0722c044d.png">
+<img width="1792" alt="01 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983116-1076ae00-0583-11eb-8f70-1c53241ad2ed.png">
 
 ### Second Concept
 (Isolating each system)
