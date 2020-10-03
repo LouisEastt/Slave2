@@ -8,13 +8,11 @@ Taking a step back and analysing the work in relation to the original project ai
 <img width="300" alt="Screen Shot 2020-09-30 at 2 49 25 pm" src="https://user-images.githubusercontent.com/68723193/94982384-59c3ff00-057d-11eb-930c-cd6218393d8f.png"> <img width="300" alt="Screen Shot 2020-09-30 at 2 49 28 pm" src="https://user-images.githubusercontent.com/68723193/94982386-5cbeef80-057d-11eb-9aff-2c156577475f.png">  <img width="300" alt="Screen Shot 2020-09-30 at 2 49 35 pm" src="https://user-images.githubusercontent.com/68723193/94982835-516dc300-0581-11eb-9030-a2d4898cacd7.png">
 
 ## Developing on Polystyrene Forms
-(Continued construction of polystyrene models. Crafting an additional 15 models from the different systems.)
+(Continued construction of polystyrene models. Crafting an additional 15 models from the different systems.) <br/>
 **New formed generated and cut** <br/>
 <img width='500' alt="IMG_8938" src="https://user-images.githubusercontent.com/68723193/94982918-ce00a180-0581-11eb-9b28-4e89aa53080f.jpg">  
-<br/>
 **Forms outlined on polystyrene** <br/>
 <img width='500' alt="IMG_8944" src="https://user-images.githubusercontent.com/68723193/94982919-d0fb9200-0581-11eb-9cad-b77bf9999578.jpg">  
-<br/>
 **Pre-Modelled forms** <br/>
 <img width='500' alt="Craft forms Cut_Scan 3" src="https://user-images.githubusercontent.com/68723193/94982915-ca6d1a80-0581-11eb-866c-7c4e415b4e0e.jpeg">
 <img width='500' alt="IMG_8460" src="https://user-images.githubusercontent.com/68723193/94982923-d9ec6380-0581-11eb-8cda-409654069792.JPG">  
