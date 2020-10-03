@@ -1,0 +1,114 @@
+//Surfboard Generator 004
+//WIP by Louis Eastaugh
+//30 September 2020
+// Click mouse to create form
+
+//Creating a Funky Symmetrical Surfboard
+
+color orange = color(232,135,42);
+
+  //Nose Position (Middle)
+  int   xNose = 300;
+  float yNose = random(80,225);
+  
+  //Nose Position (Left)
+  float xNoseL = random(220,260);
+  float yNoseL = random(80,300);
+
+  //Tail Positions (Middle)
+  int   xTail = 300;
+  float yTail = random(675,820);
+ 
+  //Tail Position (Left)
+  float xTailL = random(220,260);
+  float yTailL = random(600,820);
+   
+  //Mirror Values 
+  float xTailR = (300-xTailL)+300;  //Work out Tail Right position from Left Position
+  float xNoseR = (300-xNoseL)+300;  //Work out Nose Right position from Left Position
+ 
+  //Curve Value to contribute random bend to control point 
+  float curv = random(-30,30);
+
+
+void setup (){
+ size(600,900);
+ background(orange);
+ 
+}
+
+void draw(){
+ 
+}
+
+void mousePressed(){
+  
+  
+  
+  //Nose Position (Middle)
+  int   xNose = 300;
+  float yNose = random(80,225);
+  
+  //Nose Position (Left)
+  float xNoseL = random(170,250);
+  float yNoseL = random(80,300);
+
+  //Tail Positions (Middle)
+  int   xTail = 300;
+  float yTail = random(675,820);
+ 
+  //Tail Position (Left)
+  float xTailL = random(170,250);
+  float yTailL = random(600,820);
+   
+  //Mirror Values 
+  float xTailR = (300-xTailL)+300;  //Work out Tail Right position from Left Position
+  float xNoseR = (300-xNoseL)+300;  //Work out Nose Right position from Left Position
+ 
+  //Curve Value to contribute random bend to control point 
+  float curv = random(-30,30);
+
+  //Control pt Positions
+  //Variable to allow to mirror
+  
+  //Top anchor pt Positions
+  float xTop = ((xNose+xNoseL)/2)+curv;
+  float yTop = ((yNose+yNoseL)/2)+curv;
+  
+  float xMiddle = ((xNoseL+xTailL)/2)+curv;
+  float yMiddle = ((yNoseL+yTailL)/2)+curv;
+  
+  float xBottom = ((xTailL+xTail)/2)+curv;
+  float yBottom =  ((yTailL+yTail)/2)+curv;
+  
+   noFill();                //Take away coloured fill from Bezier
+   background(orange);      //Fill Background after each form created
+   
+   
+   
+   
+   //Create outlines for Left Side
+   
+   //Curve from Nose Middle to Nose Left
+   //    (First Anchor.Control pt   (x)      . Control pt        (y) .Second Control pt (x)  . Second Control pt (y). Second anchor pt. 
+   bezier(xNose,yNose,xTop,yTop,xTop,yTop,xNoseL,yNoseL);
+  
+   //Curve from Nose Left To Tail Left
+   bezier(xNoseL,yNoseL,xMiddle,yMiddle,xMiddle,yMiddle,xTailL,yTailL);
+
+   //Curve from Tail Left to Tail Middle
+   bezier(xTailL,yTailL,xBottom,yBottom,xBottom,yBottom,xTail,yTail);
+
+   //Use positions of Left side to create Right lineform
+   
+   //Curve from Tail Middle to Tail Right
+   bezier(xTail,yTail,((300-xBottom)+300),yBottom,((300-xBottom)+300),yBottom,xTailR,yTailL);
+   
+   //Curve from Tail Right to Nose Right
+   bezier(xTailR,yTailL,((300-xMiddle)+300),yMiddle,((300-xMiddle)+300),yMiddle,xNoseR,yNoseL);
+
+   //Curve from Nose Right to Nose Middle
+   bezier(xNoseR,yNoseL,((300-xTop)+300),yTop,((300-xTop)+300),yTop,xNose,yNose);
+
+
+}
