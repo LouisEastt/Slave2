@@ -32,6 +32,9 @@ My first iteration allowed the three systems that I had worked on to be analysed
 (Isolating each system)
 This was a good second step. From here.. after a recommendation from Michael.. I started to use canvas resize to make the window more variable. Although I had a larger issue.. Each system I’ve constructed was not designed with the intent to be shown on web later. The web app wasn’t part of the plan. Each system works off an integer position that was created in relation to my initial processing sketch. If I were to do it again.. I would have made each position a variable dependant on the window dimensions. This concept is great.. although its terrible at smaller window sizes and you can start to reveal its flaws.. [Click here]( https://louiseastt.github.io/P5js_Sketch/SURFBOR3D/) to play So now.. I move to concept 3 of my web app. 
 
+<img width="500" alt="01 SURFBOR3D Web 2" src="https://user-images.githubusercontent.com/68723193/94983314-f50ca280-0584-11eb-887f-2a3387854734.png"> <img width="500" alt="02 SURFBOR3D Web 2" src="https://user-images.githubusercontent.com/68723193/94983316-f938c000-0584-11eb-9e38-bdf7a481af58.png"> <img width="500" alt="03 SURFBOR3D Web 2" src="https://user-images.githubusercontent.com/68723193/94983317-f9d15680-0584-11eb-994b-897ff1f07054.png"> <img width="500" alt="04 SURFBOR3D Web 2" src="https://user-images.githubusercontent.com/68723193/94983318-fb028380-0584-11eb-809b-d82517f3ce4c.png">
+
+
 ### Third Concept
 (Working with what I’ve got)
 To work around some of my earlier decisions, I decided to rotate each system and have is dependent on the centre of the window. This concept also integrates the new system that I created and compositionally this concept works quite nicely as it can allow for the use of each arrow. [Click here]( https://louiseastt.github.io/P5js_Sketch/SURFBOR3D2/) to play with the third concept.
