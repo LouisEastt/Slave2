@@ -5,8 +5,8 @@
 ## Developing on Polystyrene Forms
 Continued construction of polystyrene models. Crafting an additional 15 models from the different systems.
 
-<img width='500' alt="IMG_8944" src="https://user-images.githubusercontent.com/68723193/94982919-d0fb9200-0581-11eb-9cad-b77bf9999578.jpg">  
 <img width='500' alt="IMG_8938" src="https://user-images.githubusercontent.com/68723193/94982918-ce00a180-0581-11eb-9b28-4e89aa53080f.jpg">  
+<img width='500' alt="IMG_8944" src="https://user-images.githubusercontent.com/68723193/94982919-d0fb9200-0581-11eb-9cad-b77bf9999578.jpg">  
 <img width='500' alt="Craft forms Cut_Scan 3" src="https://user-images.githubusercontent.com/68723193/94982915-ca6d1a80-0581-11eb-866c-7c4e415b4e0e.jpeg">
 <img width='500' alt="IMG_8967" src="https://user-images.githubusercontent.com/68723193/94982936-f38dab00-0581-11eb-98b3-e86de6f804d8.jpg">  
 <img width='500' alt="IMG_8460" src="https://user-images.githubusercontent.com/68723193/94982923-d9ec6380-0581-11eb-8cda-409654069792.JPG">  
