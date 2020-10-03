@@ -70,6 +70,7 @@ To work around some of my earlier decisions, I decided to rotate each system and
 ## Next Steps
 * Web app scale function to work on different screen sizes (Ensure that craft form works within rectangle form)
 * Fix Type Arrow features to stop looping re-draw  
+* Touch function for phone usage..(& shake function?)
 * Consider other typographic information for web app (Links to additional archive, info about project, etc)
 * Photograph constructed models for publicatoin (in chosen photographic style)
 * Decide on book system 
