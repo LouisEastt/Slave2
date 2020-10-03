@@ -16,5 +16,6 @@
 **Week 7** [Quick Progress Presentation, Pseudo Code & Processing Workshop](https://github.com/LouisEastt/Slave2/blob/master/Week%207/Readme.md) <br />
 **Week 8** [Project Presentations, Continued Development & Exploration](https://github.com/LouisEastt/Slave2/blob/master/Week%208/Readme.md) <br />
 **Week 9** [Milestone Review, Feedback & p5js Workshop](https://github.com/LouisEastt/Slave2/blob/master/Week%209/Readme.md) <br />
+**Week 10** [A New Craft System, Web Development, Poly carving & Publication Testing](https://github.com/LouisEastt/Slave2/blob/master/X_Week%2010/README.md)<br />
 
 
