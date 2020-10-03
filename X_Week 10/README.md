@@ -39,6 +39,12 @@ This was a good second step. From here.. after a recommendation from Michael.. I
 (Working with what I’ve got)
 To work around some of my earlier decisions, I decided to rotate each system and have is dependent on the centre of the window. This concept also integrates the new system that I created and compositionally this concept works quite nicely as it can allow for the use of each arrow. [Click here]( https://louiseastt.github.io/P5js_Sketch/SURFBOR3D2/) to play with the third concept.
 
+<img width="1792" alt="01 SURFBOR3D Web 3" src="https://user-images.githubusercontent.com/68723193/94983340-28e7c800-0585-11eb-9f8c-013350bb8cf4.png">
+<img width="1792" alt="02 SURFBOR3D Web 3" src="https://user-images.githubusercontent.com/68723193/94983342-2d13e580-0585-11eb-9689-029755cbb822.png">
+<img width="1792" alt="03 SURFBOR3D Web 3" src="https://user-images.githubusercontent.com/68723193/94983343-2e451280-0585-11eb-9009-b7af4980bd25.png">
+<img width="1792" alt="04 SURFBOR3D Web 3" src="https://user-images.githubusercontent.com/68723193/94983344-2edda900-0585-11eb-8301-17784fd01ec8.png">
+<img width="1792" alt="05 SURFBOR3D Web 3" src="https://user-images.githubusercontent.com/68723193/94983345-300ed600-0585-11eb-8c91-e4207d660b8b.png">
+
 
 ## Some Feedback
 ### Andy Simionato
