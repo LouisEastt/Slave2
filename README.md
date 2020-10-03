@@ -1,9 +1,9 @@
-# Slave2
+# Studio : "Slave to the Algorithm" 
 
-*Welcome* <br />
-
-## Repository for studio "Slave to the Algorithm"; including a weekly breakdown of research, development & project exploration
-
+*Welcome,* <br />
+*This is repository belonds to Louis Eastaugh..* <br />
+*A archive of all things related to the studio "Slave to the Algorithm".* <br />
+*It's sorted weekly and includes research, development and project exploration from the studio.*
 
 
 **Week 1** [Introduction to stuido (Critial thinkers & a generative task)](https://github.com/LouisEastt/Slave2/blob/master/Week%201/Readme.md) <br />
