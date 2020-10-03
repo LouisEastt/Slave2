@@ -1,8 +1,8 @@
 # Slave2
 
-*Welcome to my github* <br />
+*Welcome* <br />
 
-## This is a collection of weekly research, development & project exploration
+## This repository is for the studio "Slave to the Algorithm"; broken down by weeks it includes research, development & project exploration
 
 
 
