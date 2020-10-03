@@ -11,8 +11,7 @@ Taking a step back and analysing the work in relation to the original project ai
 
 
 
-<img width="300" alt="Screen Shot 2020-09-30 at 2 49 25 pm" src="https://user-images.githubusercontent.com/68723193/94982384-59c3ff00-057d-11eb-930c-cd6218393d8f.png">
-<img width="300" alt="Screen Shot 2020-09-30 at 2 49 28 pm" src="https://user-images.githubusercontent.com/68723193/94982386-5cbeef80-057d-11eb-9aff-2c156577475f.png">
+<img width="300" alt="Screen Shot 2020-09-30 at 2 49 25 pm" src="https://user-images.githubusercontent.com/68723193/94982384-59c3ff00-057d-11eb-930c-cd6218393d8f.png"> <img width="300" alt="Screen Shot 2020-09-30 at 2 49 28 pm" src="https://user-images.githubusercontent.com/68723193/94982386-5cbeef80-057d-11eb-9aff-2c156577475f.png">
 
 ## Exploring Book system
 I’ve been trying to create a strong book system to accommodate for the different research/exploration. The book size that I’ve decided on is the pocket book through Lulu (108mm x 175mm), which I think is a suitable way of format for archiving. I’m thinking that the book chapters will be organised as a set of different questions that arise each component of research. It will allow to show the speculative nature of the research without appearing definitive. 
