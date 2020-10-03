@@ -4,7 +4,7 @@
 *Welcome,* <br />
 *This is repository belonds to Louis..* <br />
 *It's an archive of sorts; all things related to the studio "Slave to the Algorithm".* <br />
-*The content is sorted weekly and includes research, development and project exploration from the studio.*
+*The content is sorted weekly and includes research, development and project exploration from the studio.* <br />
 *Enjoy!* <br />
  <br />
  <br />
