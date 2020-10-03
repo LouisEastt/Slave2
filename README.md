@@ -1,4 +1,4 @@
-# Studio : "Slave to the Algorithm" 
+### Studio : "Slave to the Algorithm" 
 
 *Welcome,* <br />
 *This is repository belonds to Louis Eastaugh..* <br />
