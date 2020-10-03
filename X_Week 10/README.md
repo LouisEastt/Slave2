@@ -26,10 +26,8 @@ I’ve been trying to create a strong book system to accommodate for the differe
 ### First Concept
 My first iteration allowed the three systems that I had worked on to be analysed side by side. However I wasn’t sold on how the colours were interacting together. From there I thought that it could be nice to isolate each system once chosen (with arrows). 
 
-<img width="1792" alt="02 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983118-153b6200-0583-11eb-941c-f52a43092165.png">
-<img width="1792" alt="03 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983119-15d3f880-0583-11eb-8476-437f909b33a0.png">
-<img width="1792" alt="04 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983121-17052580-0583-11eb-9bfc-f7e0722c044d.png">
-<img width="1792" alt="01 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983116-1076ae00-0583-11eb-8f70-1c53241ad2ed.png">
+<img width="700" alt="03 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983119-15d3f880-0583-11eb-8476-437f909b33a0.png"> <img width="700" alt="02 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983118-153b6200-0583-11eb-941c-f52a43092165.png">
+<img width="700" alt="04 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983121-17052580-0583-11eb-9bfc-f7e0722c044d.png"> <img width="700" alt="01 SURFBOR3D Web 1" src="https://user-images.githubusercontent.com/68723193/94983116-1076ae00-0583-11eb-8f70-1c53241ad2ed.png">
 
 ### Second Concept
 (Isolating each system)
