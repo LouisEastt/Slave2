@@ -68,8 +68,9 @@ To work around some of my earlier decisions, I decided to rotate each system and
 *	Trying to resolve some of the subtle overlap of lines that occur when some anchor points are close in proximity..
 
 ## Next Steps
-* Refine Web App
-** wh
+* Web app scale function to work on different screen sizes (Ensure that craft form works within rectangle form)
+* Fix Type Arrow features to stop looping re-draw 
+*
 
 
 
