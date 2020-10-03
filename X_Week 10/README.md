@@ -20,13 +20,8 @@ Taking a step back and analysing the work in relation to the original project ai
 ## Exploring Book system
 I’ve been trying to create a strong book system to accommodate for the different research/exploration. The book size that I’ve decided on is the pocket book through Lulu (108mm x 175mm), which I think is a suitable way of format for archiving. I’m thinking that the book chapters will be organised as a set of different questions that arise each component of research. It will allow to show the speculative nature of the research without appearing definitive. 
 
-<img width="400" alt="05 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982861-782bf980-0581-11eb-9cad-7c95b836e110.png">
 
-<img width="400" alt="01 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982854-719d8200-0581-11eb-858d-45ebaf933155.png"> 
-<img width="400" alt="03 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982857-75c99f80-0581-11eb-8dd0-ba340009eb5a.png">
-<img width="400" alt="02 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982856-73ffdc00-0581-11eb-8e70-18a16b6ec4b8.png"> 
-
-<img width="400" alt="04 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982858-76facc80-0581-11eb-85a9-7c2eafdc80fa.png"> 
+<img width="400" alt="01 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982854-719d8200-0581-11eb-858d-45ebaf933155.png">  <img width="400" alt="02 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982856-73ffdc00-0581-11eb-8e70-18a16b6ec4b8.png">  <img width="400" alt="03 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982857-75c99f80-0581-11eb-8dd0-ba340009eb5a.png"> <img width="400" alt="04 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982858-76facc80-0581-11eb-85a9-7c2eafdc80fa.png">  <img width="400" alt="05 SURFBOR3D Book Test" src="https://user-images.githubusercontent.com/68723193/94982861-782bf980-0581-11eb-9cad-7c95b836e110.png">
 
 ## Web App Development
 ### First Concept
