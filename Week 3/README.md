@@ -43,7 +43,7 @@ Margie Livingston <br />
 
 
 ## Images <br />
-**(Included sketch for remix of Vinny Bartels portrait)** <br />
+**[(Included sketch for remix of Vinny Bartels portrait)](https://github.com/LouisEastt/Slave2/blob/master/Week%203/Vinny%20Portrait%20Remix.md)** <br />
 
 <img width="612" alt="Screen Shot 2020-08-08 at 2 14 14 pm" src="https://user-images.githubusercontent.com/68723193/89702483-0e2e1400-d985-11ea-8961-c943c728a67d.png">
 
