@@ -19,8 +19,8 @@ MIT Logotype  <br />
 Ryoji Ikeda  <br />
 Jonathon Moore  <br />
 
-## Images  <br />
-Generative Design system  
+## Analogue Generative Design system   <br />
+ 
 
 ![Generative Workshop 1](https://user-images.githubusercontent.com/68723193/88773087-091ed700-d1c5-11ea-90a3-bbceeb05a27e.jpg)
 
