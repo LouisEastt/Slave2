@@ -16,8 +16,8 @@ David Shingler “Bird Machine” <br />
 Jamie Newton “Wind Powered Drawing Machine” <br />
 Edouard Cabay [“Perpetual Unknowns”](https://petermagnus.com/portfolio_page/perpetual-unknowns/) <br />
 Edouard Cabay [“Machinic Protocols”](https://www.koozarch.com/abstractions/machinic-protocols/) <br />
-Nate Tyler [“Geometry”](Not a drawing machine, Architecture informed by nature) https://www.instagram.com/p/CCXDnWkj56f/) <br />
-[“Wind Powered Drawing Machine” (Using Arduino)](http://www.iaacblog.com/programs/wind-drawing-machine/) <br />
+Nate Tyler [“Geometry”](https://www.instagram.com/p/CCXDnWkj56f/) (Not a drawing machine, Architecture informed by nature) <br />
+[“Wind Powered Drawing Machine”](http://www.iaacblog.com/programs/wind-drawing-machine/) (Using Arduino) <br />
 Joanie Lemercier "Consetllations" (2016)
 
 
