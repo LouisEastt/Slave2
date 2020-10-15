@@ -108,8 +108,8 @@ If the project is about their potential in the surf and I am not able to surf th
 
 ## Notable Practioners: <br />
 Morfed Studio <br />
-[Audrey Large](audreylarge.com) <br />
-[Chan Chaiao Chun](www.chanchiaochun.com) <br />
+[Audrey Large](http://s710959515.onlinehome.fr/) <br />
+[Chan Chaiao Chun](https://www.chanchiaochun.com/) <br />
 Orta Miklos <br />
 
 
