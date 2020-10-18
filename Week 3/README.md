@@ -70,4 +70,4 @@ Margie Livingston <br />
 *Vinyl Drawing* <br />
 ![VINYL DRAWING ](https://user-images.githubusercontent.com/68723193/89702445-b2fc2180-d984-11ea-852e-105e1b049b80.jpeg)
 
-#### [<<Back (Week 2)](https://louiseastt.github.io/Slave2/Week%202/) -- [(Week 4) Next >>](https://louiseastt.github.io/Slave2/Week%204/)
+#### [<< Back (Week 2)](https://louiseastt.github.io/Slave2/Week%202/) -- [(Week 4) Next >>](https://louiseastt.github.io/Slave2/Week%204/)
