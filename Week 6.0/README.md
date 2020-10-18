@@ -27,4 +27,4 @@ Hanna Hansdotter (Sculptural) <br />
 
 
 
-## [Week 5](https://louiseastt.github.io/Slave2/Week%201/) _______________________________________________ ## [Mid Sem](https://louiseastt.github.io/Slave2/Week%203/)
+## [Week 5 (Back)](https://louiseastt.github.io/Slave2/Week%201/) [(Next) Mid Sem](https://louiseastt.github.io/Slave2/Week%203/)
