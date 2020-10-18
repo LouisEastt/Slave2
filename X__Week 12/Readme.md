@@ -21,3 +21,8 @@ This studio has activated the creative opportunities that coding can facilitate,
 From my SURFBOR3D project, I have become particularly interested in finding ways that generative design can used alongside other practices. The obvious “generative” ability always allows for surprising results and it’s empowering to be in control of how the system works. I strongly believe that we need to anticipate how digital systems will begin to shape us. I think there is potential in trying to find ways for humans to have more agency alongside these systems, especially in a physical space. Let’s take control,  we are the slave master. 
  
 Given the current restrictions and my initial project aims, I’m pleased with how the project has eventuated. Whilst the project is heavily abstracted, I feel as though the analysis has some merit to be explored beyond a speculative project. Although likely discredited by traditional surfboard shapers, this may on its own be a reason to continue research? This work could be extended by continued research into different materiality as well as designing new craft systems. I am quite interested in seeing how other data could inform the design of the surf craft forms (weather data, personal surfing experiences, etc). For this project to be properly extended, the generated forms needed to be physically tested in the ocean. This is the most suitable next step as the insights of these forms in the ocean will inform the design of the next set of generative systems.
+
+
+#### [<< Back (Week 11)](https://louiseastt.github.io/Slave2/Week%2011/)
+
+
