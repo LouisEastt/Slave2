@@ -32,9 +32,10 @@ These images below are three seperate surfing experiences that I collected using
 ### Karen Ann Donnachie
 *	Could the info section be re-click to return to systems?
 
-Unfortunately I wasn't able to get the "INFO" section to work as a function. I tried to set it up as a boolean so that I could call it after to "INFO" zone has been clicked.. Although like many things with coding.. It doesn't work out exactly as expected. I did find a UI fix by covering the "INFO" section once clicked, and creating a note which informs the user to "Press and Arrow Key to Exit". A somewhat cheeky fix.. and it does the job?
+Unfortunately I wasn't able to get the "INFO" section to work as a function. I tried to set it up as a boolean so that I could call it after to "INFO" zone has been clicked.. Although like many things with coding.. It doesn't work out exactly as expected. I did find a UI fix by covering the "INFO" section once clicked, and creating a note which informs the user to "Press and Arrow Key to Exit". A somewhat cheeky fix.. and it does the job? <br />
 
 
+I'm still currently unsure how to integrate the physical translations that i’ve created into the SURFBOR3D structure. It potentially feels fitting that there are no visualised forms as it could allow an audience to imagine a more authentic “personal” rendition of how the could see the forms working. Although from the other perspective.. It may be difficult for many viewers to properly understand the potential of the project without seeing some of the translated forms.. 
 
 
 
