@@ -77,4 +77,5 @@ The past week I’ve continued to work through different translations of the cra
 
 ![Sweet Potato Surfboards update](https://user-images.githubusercontent.com/68723193/94330476-6a69f780-0008-11eb-9e45-18619d978039.JPG)
 
-#### [<< Back (Week 8)](https://github.com/LouisEastt/Slave2/tree/master/Week%208)   [(Week 10) Next >>](https://github.com/LouisEastt/Slave2/tree/master/X_Week%2010)
+#### [<< Back (Week 8)](https://louiseastt.github.io/Slave2/Week%208)/)   [(Week 10) Next >>](https://louiseastt.github.io/Slave2/Week%2010/)
+
