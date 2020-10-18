@@ -2,10 +2,17 @@
 
 # The final push & last tests
 
-## A surfboard designed from water?
-#### A fun speculative thought I had this week.. 
-Thinking about Olfaur Elliasons ["Ice Watch"](https://olafureliasson.net/archive/artwork/WEK109190/ice-watch) (2014)) <br />
+## Last Feedback
+### Karen Ann Donnachie
+*	Could the info section be re-click to return to systems?
+
+
+## Last Tests
+#### A surfboard made out of water..? 
+A fun speculative thought I had during the week.. thinking about Olfaur Elliasons ["Ice Watch"](https://olafureliasson.net/archive/artwork/WEK109190/ice-watch) (2014)) <br />
+Surfing a carved piece of glacier ice seems incredibly appearling to me and I think it could have a really strong affect. As the matter of the "SURFBOR3D" would quite literally be water, 
 Could a surfboard be carved from large pieces of ice? <br />
+Potentially carving some sort of texture into the top layer to provide grip.. 
 I crafted a mould out of Polystyrene.. Hoping that the form may be able to pop out.. 
 
 ![IMG_9021 2](https://user-images.githubusercontent.com/68723193/96192569-02b52580-0f92-11eb-9413-4af9ed5289ed.JPG)
