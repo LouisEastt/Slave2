@@ -3,7 +3,7 @@
 # A New Craft System, Web Development, Poly carving & Publication Testing
 
 ## A New Craft System
-Taking a step back and analysing the work in relation to the original project aims, I started to think about symmetry and asymmetry in surfboard design. It lead me to wanting to construct a symmetrical craft system that can fit amongst the systems already constructed. 
+Taking a step back and analysing the work in relation to the original project aims, I started to think about symmetry and asymmetry in surfboard design. It lead me to wanting to construct a symmetrical craft system that can fit amongst the systems already constructed. [Surfboard Generator 04 Code](https://github.com/LouisEastt/Slave2/blob/master/X_Week%2010/Surfboard%20Generator%20004)
 
 <img width="300" alt="Screen Shot 2020-09-30 at 2 49 25 pm" src="https://user-images.githubusercontent.com/68723193/94982384-59c3ff00-057d-11eb-930c-cd6218393d8f.png"> <img width="300" alt="Screen Shot 2020-09-30 at 2 49 28 pm" src="https://user-images.githubusercontent.com/68723193/94982386-5cbeef80-057d-11eb-9aff-2c156577475f.png">  <img width="300" alt="Screen Shot 2020-09-30 at 2 49 35 pm" src="https://user-images.githubusercontent.com/68723193/94982835-516dc300-0581-11eb-9030-a2d4898cacd7.png">
 
