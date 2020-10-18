@@ -5,14 +5,11 @@
 [SURFBOR3D](https://louiseastt.github.io/SURFBOR3D/generator/)
 
 ## Last Minute Revisions
-After making some attempts to integrate some of the forms into my SURFBOR3D site, Karen mentioned that it could benefit from being able to visualise the forms. Her advice was to integrate the GIF that I had created which showed the generate systems along with some physical forms. I spent some time trying to get the GIF working, however I had my fare share of troubles and I had to come up with another solution for the short period of time. I decided that I could export a set of spreads from the book I had been developing and create a new sketch in the SURFBOR3D shell as “archive”. I enjoy that this is able to live as a seperate entity to the generator and allows for the archive to expand in content and appearance. 
+After making some attempts to integrate some of the forms into my SURFBOR3D site, Karen mentioned that it could benefit from being able to visualise the forms. Her advice was to integrate the GIF that I had created which showed the generate systems along with some physical forms. I spent some time trying to get the GIF working, however I had my fare share of troubles and I had to come up with another solution for the short period of time. I decided that I could export a set of spreads from the book I had been developing and create a new sketch in the SURFBOR3D shell as “archive”. I enjoy that this is able to live as a seperate entity to the generator and allows for the archive to expand in content and appearance. [Click here](https://louiseastt.github.io/SURFBOR3D/archive/) to see the archive. I plan on updating this in the coming weeks.
+
+<img width="500" alt="Screen Shot 2020-10-18 at 4 50 56 pm" src="https://user-images.githubusercontent.com/68723193/96359758-2d55d880-1162-11eb-9b9c-dbd82307286e.png"> <img width="500" alt="Screen Shot 2020-10-18 at 4 51 11 pm" src="https://user-images.githubusercontent.com/68723193/96359760-321a8c80-1162-11eb-8783-bcf0c174f096.png">
 
 
-<img width="500" alt="Screen Shot 2020-10-18 at 4 51 11 pm" src="https://user-images.githubusercontent.com/68723193/96359760-321a8c80-1162-11eb-8783-bcf0c174f096.png">
-<img width="500" alt="Screen Shot 2020-10-18 at 4 51 17 pm" src="https://user-images.githubusercontent.com/68723193/96359761-33e45000-1162-11eb-8ade-7c57aaf4cae4.png">
-
-
-<img width="500" alt="Screen Shot 2020-10-18 at 4 50 56 pm" src="https://user-images.githubusercontent.com/68723193/96359758-2d55d880-1162-11eb-9b9c-dbd82307286e.png">
 
 
 ![SURFBOR3D_Medium2](https://user-images.githubusercontent.com/68723193/96359514-78bab780-115f-11eb-8c71-8830bdfb9d59.gif)
