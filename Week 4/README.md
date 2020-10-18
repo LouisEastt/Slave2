@@ -23,4 +23,4 @@ Processing Images from In Class
 <img width="564" alt="Screen Shot 2020-08-14 at 11 20 07 am" src="https://user-images.githubusercontent.com/68723193/90228677-fa3d5300-de59-11ea-8891-db2e6018e240.png">
 
 
-[Week 3 (Back)](https://louiseastt.github.io/Slave2/Week%203/) __ [(Next) Week 5](https://louiseastt.github.io/Slave2/Week%205/)
+#### [<< Back (Week 3)](https://louiseastt.github.io/Slave2/Week%203/) __ [(Week 5) Next >>](https://louiseastt.github.io/Slave2/Week%205/)
