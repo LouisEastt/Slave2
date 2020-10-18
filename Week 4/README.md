@@ -3,7 +3,7 @@
 
 ## Summary
 
-This week we continued to develop our skills in Processing.. focussing on importing image and type. It seems as though there are moment where I feel comfortable in Processing.. and then I have a mini fail and realise how little I know. It’s continually humbling and through problem solving to mitigate issues.. it can be extremely rewarding to get your code working. For some reason, I didn’t realise how easy it would be to import different typefaces and I’m starting to question what isn’t possible through Processing? 
+This week we continued to develop our skills in Processing.. focussing on importing image and type. It seems as though there are moments where I feel comfortable in Processing.. and then I have a mini fail and realise how little I know. It’s continually humbling, problem solving to mitigate issues.. it can be extremely rewarding to get your code working. For some reason, I didn’t realise how easy it would be to import different typefaces and I’m starting to question what isn’t possible through Processing? 
 
 
 What could my project look like..(now)? <br />
