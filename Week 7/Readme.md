@@ -157,6 +157,7 @@ Orta Miklos <br />
 <img width="1792" alt="Screen Shot 2020-09-11 at 5 40 28 pm" src="https://user-images.githubusercontent.com/68723193/93061343-c6eb1f80-f6b6-11ea-98ee-248be032bfa2.png">
 
 
+[Week 5 (Back)](https://louiseastt.github.io/Slave2/Week%201/) [(Next) Mid Sem](https://louiseastt.github.io/Slave2/Week%203/)
 
 
 
