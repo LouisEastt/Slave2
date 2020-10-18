@@ -37,5 +37,5 @@ Well… I had some luck there. Part of the discussion I was interested in with t
 ![IMG_8831](https://user-images.githubusercontent.com/68723193/92878412-6c9c5580-f44f-11ea-989d-3e31282dbb06.JPG)
 
 
-#### [<< (Week 6)](https://louiseastt.github.io/Slave2/Week%206/) -- [(Week 7) >>](https://louiseastt.github.io/Slave2/Week%207/)
+#### [<< Back (Week 6)](https://louiseastt.github.io/Slave2/Week%206/) -- [(Week 7) Next >>](https://louiseastt.github.io/Slave2/Week%207/)
 
