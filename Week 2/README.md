@@ -45,7 +45,7 @@ Generative surfboard creator and generated designs
 
 ![Generated Surfboards](https://user-images.githubusercontent.com/68723193/89479569-83a7b200-d7d6-11ea-8b39-e161999618a0.jpg)
 
-#### [<< Back (Week 1)](https://louiseastt.github.io/Slave2/Week%201/)[(Week 3) Next >>](https://louiseastt.github.io/Slave2/Week%203/)
+#### [<< Back (Week 1)](https://louiseastt.github.io/Slave2/Week%201/) -- [(Week 3) Next >>](https://louiseastt.github.io/Slave2/Week%203/)
 
 
 
