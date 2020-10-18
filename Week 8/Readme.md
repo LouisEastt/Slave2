@@ -74,6 +74,6 @@ A load of questions I’ve been asking myself <br />
 ![Screen Shot 2020-09-18 at 3 58 00 pm](https://user-images.githubusercontent.com/68723193/94330285-8a98b700-0006-11eb-8d5e-b27561fd589a.png)
 
 
-[Week 7 (Back)](https://louiseastt.github.io/Slave2/Week%206.5%20(Mid%20Sem)/) [(Next) Week 9](https://louiseastt.github.io/Slave2/Week%208/)
+[Week 7 (Back)](https://louiseastt.github.io/Slave2/Week%207)/) [(Next) Week 9](https://louiseastt.github.io/Slave2/Week%209/)
 
 
