@@ -28,4 +28,5 @@ w/ generated examples.
 
 ![Generative Examples_Small](https://user-images.githubusercontent.com/68723193/88772895-c2c97800-d1c4-11ea-9b4c-4050d2fb1322.jpg)
    
-______________________________________________________________________________________________________________________________________________________[Week 2](https://louiseastt.github.io/Slave2/Week%202/)
+_________________________________________________ [Week 2](https://louiseastt.github.io/Slave2/Week%202/)
+
