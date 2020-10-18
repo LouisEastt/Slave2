@@ -18,7 +18,8 @@ I crafted a mould out of Polystyrene.. Hoping that the form may be able to pop o
 ## A surfboard designed from past surfing experiences?
 This was an idea that Karen mentioned and I had to quickly test it out.. <br />
 
-These images below are three seperate surfing experiences that I collected using a Rip Curl GPS watch. The constructed crafts have been created by outlining the space that I occupied during the surf
+These images below are three seperate surfing experiences that I collected using a Rip Curl GPS watch (2015-2019). The constructed crafts have been created by outlining the space that I occupied during the surf. Karen had mentioned that potentially the experiences could be informed by four anchor points which link to the North, East, South and West position. After conducting some tests, I believe that translating past surfing experiences may need to incorporate more data to be a full fledged idea. This data could potentially be less related to how I occupied the space and rather by information relating to the speed achieved on the wave and wave duration. This could allow for more creative translations from the data as it does not relate to a mapping of space. 
+
 
 <img width="1498" alt="Screen Shot 2020-10-12 at 9 38 48 pm" src="https://user-images.githubusercontent.com/68723193/96192663-37c17800-0f92-11eb-80ea-02e47537265c.png">
 <img width="1493" alt="Screen Shot 2020-10-12 at 9 39 48 pm" src="https://user-images.githubusercontent.com/68723193/96192672-3c862c00-0f92-11eb-8463-0584bfe3ec20.png">
