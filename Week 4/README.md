@@ -21,3 +21,6 @@ Processing Images from In Class
 <img width="592" alt="Screen Shot 2020-08-14 at 11 06 50 am" src="https://user-images.githubusercontent.com/68723193/90228656-f14c8180-de59-11ea-98d7-50c89e261f85.png">
 <img width="592" alt="Screen Shot 2020-08-14 at 11 07 29 am" src="https://user-images.githubusercontent.com/68723193/90228670-f7426280-de59-11ea-8843-0e54eefc0579.png">
 <img width="564" alt="Screen Shot 2020-08-14 at 11 20 07 am" src="https://user-images.githubusercontent.com/68723193/90228677-fa3d5300-de59-11ea-8891-db2e6018e240.png">
+
+
+[Week 3](https://louiseastt.github.io/Slave2/Week%203/) _______________________________________________ [Week 5](https://louiseastt.github.io/Slave2/Week%205/)
