@@ -5,7 +5,7 @@
 ## Last Tests
 #### A surfboard made out of water..? 
 A fun speculative thought I had during the week.. thinking about Olfaur Elliason's ["Ice Watch"](https://olafureliasson.net/archive/artwork/WEK109190/ice-watch) (2014)) <br />
-Surfing a carved piece of glacier ice seems incredibly appearling and I think it could have a really strong affect. As the "matter" of the SURFBOR3D would quite literally be water, it would speak to an array of different ideas. Simiarly to "Ice Watch", it could speak to climate change and the effect that rising tempertures will have on the activity of the ocean. I don't think I can think of simpler surfing craft than a piece of ice, which would highlight surf craft potentials. To add.. it would be playful, intruiging and inviting. To add again to Elliason's "Ice Watch", it would be temporary. It would be a crafted surfboard with a finite lifespan.
+Surfing a carved piece of glacier ice seems incredibly appearling and I think it could have a really strong affect. As the "matter" of the SURFBOR3D would quite literally be water, it would speak to an array of different ideas. Similarly to "Ice Watch", it could speak to climate change and the effect that rising temperatures will have on the activity of the ocean. I don't think I can think of simpler surfing craft than a piece of ice, which would highlight surf craft potentials. To add.. it would be playful, intriguing and inviting. To add again to Elliason's "Ice Watch", it would be temporary. It would be a crafted surfboard with a finite lifespan.
 
 Could a surfboard be carved from large pieces of ice? <br />
 Potentially carving some sort of texture into the top layer to provide grip.. 
@@ -16,7 +16,9 @@ I crafted a mould out of Polystyrene.. Hoping that the form may be able to pop o
 
 
 ## A surfboard designed from past surfing experiences?
-This was an idea that Karen mentioned and I had to quickly test it out.. 
+This was an idea that Karen mentioned and I had to quickly test it out.. <br />
+
+These images below are three seperate surfing experiences that I collected using a Rip Curl GPS watch. The constructed crafts have been created by outlining the space that I occupied during the surf
 
 <img width="1498" alt="Screen Shot 2020-10-12 at 9 38 48 pm" src="https://user-images.githubusercontent.com/68723193/96192663-37c17800-0f92-11eb-80ea-02e47537265c.png">
 <img width="1493" alt="Screen Shot 2020-10-12 at 9 39 48 pm" src="https://user-images.githubusercontent.com/68723193/96192672-3c862c00-0f92-11eb-8463-0584bfe3ec20.png">
