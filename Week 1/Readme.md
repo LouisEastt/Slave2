@@ -28,4 +28,4 @@ w/ generated examples.
 
 ![Generative Examples_Small](https://user-images.githubusercontent.com/68723193/88772895-c2c97800-d1c4-11ea-9b4c-4050d2fb1322.jpg)
    
-[Week 2](https://github.com/LouisEastt/Slave2/tree/master/Week%202)
+______________________________________________________________________________________________________________________________________________________[Week 2](https://louiseastt.github.io/Slave2/Week%202/)
