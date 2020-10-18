@@ -18,8 +18,8 @@ From our presentation last week.. I haven’t spent any time working directly on
 
 
 ## Notable Practioners <br />
-Heather- Dewey Hagborg <br />
-Takehito Etani <br />
+[Heather- Dewey Hagborg](http://www.deweyhagborg.com/) <br />
+[Takehito Etani](http://takehito-etani-it95.squarespace.com/transparent-footprints-of-invisible-giants/) <br />
 
 **(Found)** <br />
 [Leo Orta Miklos](https://www.instagram.com/ortamiklos/) (Abstract Furniture Design) <br />
