@@ -51,7 +51,7 @@ To work around some of my earlier decisions, I decided to rotate each system and
 *	Publication as a suitable translation.. (A way of consoledating research)
 *	Activate the potential of the reseach!
 *	Design the shit out of it!
-*	Bring it to design! (So that’s interesting for designers)
+*	Bring it to design! (So it's interesting for designers)
 *	Make it so that you’re drawn in..
 *	Consistency is key throughout all design outcomes. Think of it as curating a mini exhibition, a “translation”..
 
