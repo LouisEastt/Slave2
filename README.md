@@ -4,7 +4,6 @@
 *This repository belongs to Louis Eastaugh..* <br />
 *It's an archive of sorts; all things related to the studio "Slave to the Algorithm".* <br />
 *The content is sorted weekly and includes research, development and project exploration from the studio.* <br />
-*To view my final project [Click Here](https://louiseastt.github.io/SURFBOR3D/generator/)*
 *Enjoy!* <br />
  <br />
  <br />
@@ -22,5 +21,9 @@
 **Week 10** [A New Craft System, Web Development, Poly carving & Publication Testing](https://louiseastt.github.io/Slave2/X_Week%2010/)<br />
 **Week 11** [Last tests & final development](https://louiseastt.github.io/Slave2/X__Week%2011/)<br />
 **Week 12** [The End](https://louiseastt.github.io/Slave2/X__Week%2012/)<br />
+
+
+**SURFBOR3D**
+*To view my final project [Click Here](https://louiseastt.github.io/SURFBOR3D/generator/)* <br />
 
 
