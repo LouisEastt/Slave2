@@ -8,7 +8,7 @@
 color orange = color(232,135,42);
 
   //Nose Position (Middle)
-  int   xNose = 300;
+  int   xNose = 300;                //Always sits at centre of canvas
   float yNose = random(80,225);
   
   //Nose Position (Left)
@@ -16,7 +16,7 @@ color orange = color(232,135,42);
   float yNoseL = random(80,300);
 
   //Tail Positions (Middle)
-  int   xTail = 300;
+  int   xTail = 300;                 //Always sits at centre of canvas
   float yTail = random(675,820);
  
   //Tail Position (Left)
