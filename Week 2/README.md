@@ -38,7 +38,7 @@ Trying to contort ones early movements of the day.. What if your first movements
 
 ![Week 2 (12 hr Challenge)](https://user-images.githubusercontent.com/68723193/89479554-7b4f7700-d7d6-11ea-97ae-53915878e73c.jpeg)
 
-Surfboard Generator  <br />
+**Surfboard Generator**  <br />
 Generative surfboard creator and generated designs
 
 ![Surfboard Generator 2](https://user-images.githubusercontent.com/68723193/89479672-b94c9b00-d7d6-11ea-8ac6-9f75ab4939ae.jpg)
