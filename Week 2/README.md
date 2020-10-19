@@ -26,7 +26,7 @@ Denial of Service  <br />
 [Philipp Schmitt](https://philippschmitt.com/)*  <br />
 [Mark Dorf](http://mdorf.com/)*  <br />
 [Rafael Rozendaal](https://www.newrafael.com/)   <br />
-[Tim Rodenbroeker] (https://timrodenbroeker.de/)*  <br />
+[Tim Rodenbroeker](https://timrodenbroeker.de/)*  <br />
 -Has a range of Processing tutorials  <br />
 
 
