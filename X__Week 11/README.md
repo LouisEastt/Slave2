@@ -11,8 +11,7 @@ Could a surfboard be carved from large pieces of ice? <br />
 Potentially carving some sort of texture into the top layer to provide grip.. 
 I crafted a mould out of Polystyrene.. Hoping that the form may be able to pop out.. 
 
-![IMG_9021 2](https://user-images.githubusercontent.com/68723193/96192569-02b52580-0f92-11eb-9413-4af9ed5289ed.JPG)
-![IMG_9038](https://user-images.githubusercontent.com/68723193/96192578-08ab0680-0f92-11eb-90c5-1b6a157175f6.JPG)
+![IMG_9021 2](https://user-images.githubusercontent.com/68723193/96192569-02b52580-0f92-11eb-9413-4af9ed5289ed.JPG) ![IMG_9038](https://user-images.githubusercontent.com/68723193/96192578-08ab0680-0f92-11eb-90c5-1b6a157175f6.JPG)
 
 
 ## A surfboard designed from past surfing experiences?
