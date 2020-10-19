@@ -4,8 +4,8 @@
 
 ## Last Tests
 #### A surfboard made out of water..? 
-A fun speculative thought I had during the week.. thinking about Olfaur Elliason's ["Ice Watch"](https://olafureliasson.net/archive/artwork/WEK109190/ice-watch) (2014)) <br />
-Surfing a carved piece of glacier ice seems incredibly appearling and I think it could have a really strong affect. As the "matter" of the SURFBOR3D would quite literally be water, it would speak to an array of different ideas. Similarly to "Ice Watch", it could speak to climate change and the effect that rising temperatures will have on the activity of the ocean. I don't think I can think of simpler surfing craft than a piece of ice, which would highlight surf craft potentials. To add.. it would be playful, intriguing and inviting. To add again to Elliason's "Ice Watch", it would be temporary. It would be a crafted surfboard with a finite lifespan.
+A fun speculative thought I had during the week.. thinking about Olfaur Elliason's ["Ice Watch"](https://olafureliasson.net/archive/artwork/WEK109190/ice-watch) (2014) <br />
+Surfing a carved piece of glacier ice seems incredibly appealing and I think it could have a really strong affect. As the "matter" of the SURFBOR3D would quite literally be water, it would speak to an array of different ideas. Similarly to "Ice Watch", it could speak to climate change and the effect that rising temperatures will have on the activity of the ocean. I don't think I can think of simpler surfing craft than a piece of ice, which could push surf craft potentials right to the edge. To add.. it would be playful, intriguing and inviting. To add again to Elliason's "Ice Watch", it would be temporary. It would be a crafted surfboard with a finite lifespan.
 
 Could a surfboard be carved from large pieces of ice? <br />
 Potentially carving some sort of texture into the top layer to provide grip.. 
