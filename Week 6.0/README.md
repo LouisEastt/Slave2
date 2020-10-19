@@ -27,4 +27,4 @@ From our presentation last week.. I haven’t spent any time working directly on
 
 
 
-#### [<< Back (Week 5)](https://louiseastt.github.io/Slave2/Week%201/) -- [(Mid Sem) Next >>](https://louiseastt.github.io/Slave2/Week%203/)
+#### [<< Back (Week 5)](https://louiseastt.github.io/Slave2/Week%201/) -- [(Mid Sem) Next >>](https://louiseastt.github.io/Slave2/Week%206.5%20(Mid%20Sem)/)
