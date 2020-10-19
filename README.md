@@ -4,6 +4,7 @@
 *This repository belongs to Louis Eastaugh..* <br />
 *It's an archive of sorts; all things related to the studio "Slave to the Algorithm".* <br />
 *The content is sorted weekly and includes research, development and project exploration from the studio.* <br />
+*To view my final project [Click Here](https://louiseastt.github.io/SURFBOR3D/generator/)*
 *Enjoy!* <br />
  <br />
  <br />
