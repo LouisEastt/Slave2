@@ -78,5 +78,5 @@ To work around some of my earlier decisions, I decided to rotate each system and
 * Statement and additonal writing for "SURFBOR3D"
 
 
-#### [<< Back (Week 9)](https://louiseastt.github.io/Slave2/Week%209/) -- [(Week 11) Next >>](https://louiseastt.github.io/Slave2/Week%2011/)
+#### [<< Back (Week 9)](https://louiseastt.github.io/Slave2/Week%209/) -- [(Week 11) Next >>](https://louiseastt.github.io/Slave2/X__Week%2011/)
 
