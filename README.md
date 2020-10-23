@@ -6,7 +6,6 @@
 *The content is sorted weekly and includes research, development and project exploration from the studio.* <br />
 *Enjoy!* <br />
  <br />
- <br />
 
 **Week 1** [Introduction to stuido (Critial thinkers & a generative task)](https://louiseastt.github.io/Slave2/Week%201/) <br />
 **Week 2** [Instructional Design & Intro to Processing](https://louiseastt.github.io/Slave2/Week%202/) <br />
